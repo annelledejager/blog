@@ -1,6 +1,6 @@
 ---
 layout: project_post
-title: reisagent - ionic mobile app for traveling information
+title: reisagent - ionic mobile app
 date: 2017-09-15 21:17:00
 ---
 
