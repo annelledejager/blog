@@ -3,6 +3,7 @@ layout: post
 title: Iceland
 description: a 7 day road trip around iceland
 img: /blog/img/2.jpg
+date: 2017-09-15 21:17:00
 ---
 
 Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
