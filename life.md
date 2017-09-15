@@ -2,7 +2,7 @@
 layout: page
 permalink: /life/
 title: life
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+description: Short stories, experiences and tips from my life.
 ---
 
 <ul class="post-list">
