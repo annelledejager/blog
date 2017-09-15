@@ -1,15 +1,47 @@
 ---
 layout: page
-permalink: /life/
 title: life
-description: Short stories, experiences and tips from my life.
+permalink: /life/
 ---
 
-<ul class="post-list">
-{% for life_event in site.life reversed %}
-    <li>
-        <h2><a class="life_event-title" href="{{ life_event.url | prepend: site.baseurl }}">{{ life_event.title }}</a></h2>
-        <p class="post-meta">{{ life_event.date | date: '%B %-d, %Y — %H:%M' }}</p>
-      </li>
+{% for project in site.life %}
+
+{% if project.redirect %}
+<div class="project">
+    <div class="thumbnail">
+        <a href="{{ project.redirect }}" target="_blank">
+        {% if project.img %}
+        <img class="thumbnail" src="{{ project.img }}"/>
+        {% else %}
+        <div class="thumbnail blankbox"></div>
+        {% endif %}    
+        <span>
+            <h1>{{ project.title }}</h1>
+            <br/>
+            <p>{{ project.description }}</p>
+        </span>
+        </a>
+    </div>
+</div>
+{% else %}
+
+<div class="project ">
+    <div class="thumbnail">
+        <a href="{{ site.baseurl }}{{ project.url }}">
+        {% if project.img %}
+        <img class="thumbnail" src="{{ project.img }}"/>
+        {% else %}
+        <div class="thumbnail blankbox"></div>
+        {% endif %}    
+        <span>
+            <h1>{{ project.title }}</h1>
+            <br/>
+            <p>{{ project.description }}</p>
+        </span>
+        </a>
+    </div>
+</div>
+
+{% endif %}
+
 {% endfor %}
-</ul>

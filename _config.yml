@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: '/blog'  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
 # twitter_username: twitter_username
-github_username:  https://github.com/annelledejager/
+github_username:  annelledejager
 
 # Build settings
 markdown: kramdown
@@ -25,5 +25,3 @@ collections:
   life:
     output: true
     permalink: /life/:path/
-
-
