@@ -38,8 +38,6 @@ description: Short stories, experiences and tips from my life.
             <h1>{{ story.title }}</h1>
             <br/>
             <p>{{ story.description }}</p>
-            <br/>
-            <p class="post-meta">{{ story.date | date: '%B %-d, %Y — %H:%M' }}</p>
         </span>
         </a>
     </div>
