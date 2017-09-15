@@ -2,6 +2,7 @@
 layout: page
 title: life
 permalink: /life/
+description: Short stories, experiences and tips from my life.
 ---
 
 {% for project in site.life %}

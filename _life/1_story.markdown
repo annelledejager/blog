@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Reisagent Project
-description: Ionic mobile app for traveling information
+title: iceland
+description: a 7 day road trip around iceland
 img: /blog/img/2.jpg
 ---
 

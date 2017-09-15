@@ -2,7 +2,6 @@
 layout: page
 permalink: /portfolio/
 title: portfolio
-description: Short stories, experiences and tips from my life.
 ---
 
 <ul class="post-list">
