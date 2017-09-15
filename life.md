@@ -39,7 +39,7 @@ description: Short stories, experiences and tips from my life.
             <br/>
             <p>{{ story.description }}</p>
             <br/>
-            <p>{{ story.date }}</p>
+            <p class="post-meta">{{ story.date | date: '%B %-d, %Y — %H:%M' }}</p>
         </span>
         </a>
     </div>
