@@ -2,6 +2,7 @@
 layout: post
 title: Iceland
 description: a 7 day road trip around iceland
+date: 2017-09-15 21:17:00
 img: /blog/img/2.jpg
 ---
 
