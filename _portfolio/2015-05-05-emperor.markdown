@@ -1,6 +1,0 @@
----
-layout: post
-title: A roadtrip to Iceland
-date: 2017-09-15 21:17:00
----
-
