@@ -1,6 +1,6 @@
 ---
 layout: post
-title: iceland
+title: Iceland
 description: a 7 day road trip around iceland
 img: /blog/img/2.jpg
 ---
