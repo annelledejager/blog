@@ -17,6 +17,7 @@ highlighter: rouge
 paginate: 15
 paginate_path: "/blog/page:num/"
 
+comments: true
 
 collections:
   portfolio:
