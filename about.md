@@ -7,9 +7,18 @@ permalink: /about/
 <img class="col one right" src="{{ site.baseurl }}/img/prof_pic.jpg">
 
 <br/>
-Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder. 
+Welcome to my personal blog. 
 
-Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them. 
+I'm Annelle, a Software Engineer raised in a small town in South Africa. I recently moved to Budapest, Hungary seeking adventure and to pursue my career. I love traveling, food and trying new things. 
+
+I am a girl in tech, but this blog is NOT about being a girl in tech. It's a collection of thoughts and experiences during my adventure abroad. It contains from code snippets to travel tips.
+
+My favourite quote
+
+<blockquote>
+The world moves on with or without you.
+	—Anonymous
+</blockquote>
 
 
 <br/>
@@ -18,6 +27,7 @@ Link to your social media connections, too. This theme is set up to use <a href=
 <span class="contacticon center">
 	<a href="mailto:annelle.dejager@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/annelledejager/" target="_blank"><i class="fa fa-github-square"></i></a>
+	<a href="https://www.instagram.com/annelledj/"><i class="fa fa-instagram"></i></a>
 	<a href="https://www.linkedin.com/in/annelle-de-jager-8041539a/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 </span>
 
