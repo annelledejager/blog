@@ -16,4 +16,4 @@ Jekyll was recommended by a friend. I tried it, liked it and my blog is currentl
 
 Why I like Jekyll? I can write markup, push to a Github repository and host my blog for free. There are also a variety of out-of-the-box <a href="http://jekyllthemes.org/">themes</a> to choose from.
 
-A setup blog to follow soon.
+A setup blog post to follow soon.
