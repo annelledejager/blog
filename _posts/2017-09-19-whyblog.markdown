@@ -5,7 +5,7 @@ date:   2017-09-19 19:22:00
 description: why I started a blog
 comments: true
 ---
-I decided to start blogging after attending a talk by Lorna Jane <a href="https://lornajane.net/">Lorna Jane</a> at <a href="https://craft-conf.com/">Craft Conference</a> earlier this year. The title of her talk was "Becoming Polyglot". What I got from her talk was that she kept a blog and highly recommended it. Her point for keeping one was that no one can remember everything and a blog is the perfect way to quickly look up something you've discovered or resolved a few months ago. 
+I decided to start blogging after attending a talk by <a href="https://lornajane.net/">Lorna Jane</a> at <a href="https://craft-conf.com/">Craft Conference</a> earlier this year. The title of her talk was "Becoming Polyglot". What I got from her talk was that she kept a blog and highly recommended it. Her point for keeping one was that no one can remember everything and a blog is the perfect way to quickly look up something you've discovered or resolved a few months ago. 
 
 I didn't immediately start a blog after Lorna's talk. It was a bit intimidating. Why would anyone want to read what I think, discover and write? 
 
