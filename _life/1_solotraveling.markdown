@@ -9,7 +9,7 @@ comments: true
 # Traveling alone. Very few people are brave enough to try it. Those who are, reap the greatest rewards.
 <br/>
 
-I have solo traveled on numerous occasions. Sometimes by choice, sometimes out of necessity.It might not be for everyone. I believe that everyone should at least try it once in their life. I can't encourage solo traveling enough.
+I have traveled solo on numerous occasions. Sometimes by choice, sometimes out of necessity. It might not be for everyone, but I believe that everyone should at least try it once in their life. I can't encourage solo traveling enough.
 
 I'm fortunate to grow up in a family that can afford to travel to exostic places almost yearly. My family values experiences above things. This is the main reason I travel alone. Sometimes if you're not going to do it alone, then you're not going to do it at all. 
 
