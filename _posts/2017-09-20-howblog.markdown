@@ -1,0 +1,50 @@
+---
+layout: post
+title:  choosing jekyll
+date:   2017-09-20 18:37:00
+description: why I chose jekyll and the setup
+comments: true
+---
+I'm not the kind of developer who ressearches and compares tools before picking and using them. I prefer to jump right in and discover. 
+
+Jekyll was recommend by a friend. I tried it, I liked it and my blog is currently built from it.
+
+<blockquote>
+	Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
+		—https://jekyllrb.com/docs/home/
+</blockquote>
+
+Why I like Jekyll? I can write markup, push to a Github repository and host my blog for free. There are also a variety of out-of-the-box themes to choose from.
+
+A short summary of the steps I took to get my blog up and running
+1. Install Jekyll (gem install jekyll)
+2. Create a user account on Github if you don't already have one
+3. Create a blog repository 
+4. Create a new branch in your repository called `gh-pages`
+5. Remove the `master` branch, you will be commiting to the `gh-pages` branch from now
+6. Choose a Github Jekyll theme (I chose https://github.com/bogoli/-folio/)
+7. Download the theme to local
+8. Get familiar with the directory structure. Customize the theme. Please see below.
+9. Add the theme to your repostiory branch `gh-pages`
+10. Go to your blog repostiroy settings to find the url
+11. Enter url in browser and be happy
+
+Get use to the file structure
+_config.yml - important file where the configuration data live
+_site - this folder is generated, don't commit it and don't change it, because any changes will be overwritten
+_includes - partials that can be added to your posts for example
+_layouts - describes how your posts should look
+_posts - a folder containing your posts in the format YEAR-MONTH-DAY-title.MARKUP
+
+Jekyll will transform any .html, .markdown or .md files.
+
+Running Jekyll locally
+1. Go to the Jekyll repostiory on your local machine
+2. Run `Jekyll serve`
+3. Run http://127.0.0.1:4000/ in browser 
+
+A frew tricky things
+If your css looks weird, change the baseurl in config file.
+Add your favicon link to the header. 
+
+Start blogging! 
