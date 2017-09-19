@@ -9,14 +9,14 @@ comments: true
 # Traveling alone. Very few people are brave enough to try it. Those who are, reap the greatest rewards.
 <br/>
 
-I have solo traveled on numerous occasions. Sometimes by choice, sometimes out of necessity. I can't encourage solo traveling enough. 
+I have solo traveled on numerous occasions. Sometimes by choice, sometimes out of necessity.It might not be for everyone. I believe that everyone should at least try it once in their life. I can't encourage solo traveling enough.
 
 I'm fortunate to grow up in a family that can afford to travel to exostic places almost yearly. My family values experiences above things. This is the main reason I travel alone. Sometimes if you're not going to do it alone, then you're not going to do it at all. 
 
 # Life is too short to wait for someone to eventually join you.
 <br/>
 
-Who will I talk to? Who will I eat dinner with? Who will I share my experiences with? Who will I take photos with? Similar thoughts before solo traveling are all normal, but how will you know if you don't try? You will surprise yourself. 
+Who will I talk to? Who will I eat dinner with? Who will I share my experiences with? Who will I take photos with? Similar thoughts before solo traveling are normal, but how will you know if you don't try? You might just surprise yourself. 
 
 I’m not going to go as far as stating that you will "find yourself", but I do think that solo traveling allows you to connect with yourself. It's a time where you can really listen to yourself and be selfish. You can decide your journey and experiences. For example if you want to talk to people and make friends, you can. If you want a quiet, remote experience then you can have one. 
 
@@ -57,7 +57,7 @@ I recently moved to Budapest, Hungary. My boyfriend joined me seven months later
 		This is usually the first thing I do when I get to my accommodation. I take a map they usually provide at the front desk, I go sit in the nearest pub with a local beer and plan the sites and activities on the map for the next few days.	
 </ul>
 
-So I leave you with this - book that trip that you've always wanted to now. It's ok to invite your friends, but don't wait for them before booking your trip. They could back out last minute. If they do, embrace solo traveling with open arms and I promise you, it will be the best experience of your life.
+So I leave you with this - book that trip that you've always wanted to. It's ok to invite your friends, but don't wait for them before booking your trip. They could back out last minute. If they do, embrace solo traveling with open arms and I promise you, it might just be the best experience of your life.
 
 <img class="col one" src="/blog/img/solotravel5.jpg">
 <img class="col two" src="/blog/img/solotravel4.jpg">
