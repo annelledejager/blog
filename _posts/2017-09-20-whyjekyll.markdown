@@ -2,7 +2,7 @@
 layout: post
 title:  choosing jekyll
 date:   2017-09-20 18:37:00
-description: why I chose jekyll and the setup
+description: why I chose jekyll
 comments: true
 ---
 I'm not the kind of developer who ressearches and compares tools before picking and using them. I prefer to jump right in and discover. 
@@ -15,4 +15,3 @@ Jekyll was recommend by a friend. I tried it, liked it and my blog is currently 
 </blockquote>
 
 Why I like Jekyll? I can write markup, push to a Github repository and host my blog for free. There are also a variety of out-of-the-box <a href="http://jekyllthemes.org/">themes</a> to choose from.
-
