@@ -16,27 +16,27 @@ I'm fortunate to grow up in a family that can afford to travel to exostic places
 # Life is too short to wait for someone to eventually join you.
 <br/>
 
-Who will I talk to? Who will I eat dinner with? Who will I share my experiences with? Who will I take photos with? Similar thoughts before solo traveling are normal, but how will you know if you don't try? You might just surprise yourself. 
+Who will I talk to? Who will I eat dinner with? Who will I share my experiences with? Who will I take photos with? Similar thoughts before traveling solo are normal, but how will you know if you don't try? You might just surprise yourself. 
 
-I’m not going to go as far as stating that you will "find yourself", but I do think that solo traveling allows you to connect with yourself. It's a time where you can really listen to yourself and be selfish. You can decide your journey and experiences. For example if you want to talk to people and make friends, you can. If you want a quiet, remote experience then you can have one. 
+I won't go as far as stating that you will "find yourself". I do, however, think that traveling solo allows you to connect with yourself. It's a time where you can really listen to yourself and be selfish. You can decide your journey and experiences. For example if you want to talk to people and make friends, you can. If you want a quiet, remote experience then you can have one. 
 
-I recently moved to Budapest, Hungary. My boyfriend joined me seven months later. I traveled alone on numerous occasions during those initial seven months. Here are a few tips from my experiences
+I moved to Budapest, Hungary from South Africa earlier this year to work and travel. My boyfriend joined me seven months later. I traveled alone on numerous occasions during those initial seven months. Here are a few tips from my experiences
 
 <ul>
 	<li><b>For first time solo travelers, choose an "easy" city</b></li>
 
 		<img class="col one right" src="/blog/img/solotravel2.jpg">
 
-		If it's your first time solo traveling and you are bad with directions, then pick an “easy” city. This means pick a city that boasts tourism. It's usually easy to get around, easy to find monuments/museums, easy to find English speakers and easy to make friends in hostels in these cities. Example "easy" cities Barcelona, London, Dublin, Copenhagen, Lisbon etc.
+		If it's your first time traveling solo and/or you are bad with directions, then pick an “easy” city. This means pick a city that boasts tourism. It's usually easy to get around, easy to find monuments/museums, easy to find English speakers and easy to make friends in hostels in these cities. Example "easy" cities are Barcelona, London, Dublin, Copenhagen, Lisbon etc.
 
 
 	<li><b>Pick the right accommodation for your style</b></li>
 
 		My favourite sites are Booking.com and Hostelworld.com. They cater for a wide range of accommodation styles. Always read the reviews and always check the location.
 
-	<li><b>Google how to get to and from locations for example the airport to your accommodation</b></li>
+	<li><b>Google how to get to and from locations for example from the airport to your accommodation</b></li>
 
-		I can't emphasize this enough. Remember, you're on your own, so be prepared in advance. If you miss your train/bus or if you're lost, its on you.
+		I can't emphasize this enough. Remember, you are on your own, so be prepared. If you miss your train/bus or if you're lost, its on you.
 
 	<li><b>Download offline maps on your phone for the city center</b></li>	
 
@@ -44,17 +44,17 @@ I recently moved to Budapest, Hungary. My boyfriend joined me seven months later
 
 	<li><b>Take a book</b></li>	
 
-		A good book can come in handy even if you're not a reader. It's the perfect date for a dinner and a wine.
+		A book can come in handy even if you're not a reader. It's the perfect date for a dinner and a wine. It's a good way to avoid stares from waiters or other restaurant guests.
 
 	<li><b>Arrange an activity</b></li>	
 
 		<img class="col one right" src="/blog/img/solotravel1.jpg">
 
-		Give your trip a purpose. It will keep you busy and your mind away from the fact that you’re by yourself. I ran a 21 km race in Dublin earlier this year. The preparation for the race and the celebration after made my trip memorable.
+		Give your trip a purpose. It will keep you busy and your mind away from the fact that you are by yourself. I ran a half marathon race in Dublin, Ireland earlier this year. The preparation for the race and the celebration after made my trip extremely memorable.
 
-	<li><b>Get a tourist map from your accommodation </b></li>	
+	<li><b>Get a tourist map from your accommodation</b></li>	
 
-		This is usually the first thing I do when I get to my accommodation. I take a map they usually provide at the front desk, I go sit in the nearest pub with a local beer and plan the sites and activities on the map for the next few days.	
+		This is usually the first thing I do when I get to my accommodation. I take a map which they usually provide at the front desk, I go sit in the nearest pub with a local beer and plan the sites and activities on the map for the next few days.	
 </ul>
 
 So I leave you with this - book that trip that you've always wanted to. It's ok to invite your friends, but don't wait for them before booking your trip. They could back out last minute. If they do, embrace solo traveling with open arms and I promise you, it might just be the best experience of your life.
