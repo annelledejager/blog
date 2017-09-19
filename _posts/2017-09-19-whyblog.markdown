@@ -5,7 +5,7 @@ date:   2017-09-19 19:22:00
 description: why I started a blog
 comments: true
 ---
-I decided to start blogging after attending a talk by <a href="https://lornajane.net/">Lorna Jane</a> at <a href="https://craft-conf.com/">Craft Conference</a> earlier this year. The title of her talk was "Becoming Polyglot". What I got from her talk was that she kept a blog and highly recommended it. Her point for keeping one was that no one can remember everything and a blog is the perfect way to quickly look up something you've discovered or resolved a few months ago. 
+I decided to start blogging after attending a talk by Lorna Jane <a href="https://lornajane.net/">Lorna Jane</a> at <a href="https://craft-conf.com/">Craft Conference</a> earlier this year. The title of her talk was "Becoming Polyglot". What I got from her talk was that she kept a blog and highly recommended it. Her point for keeping one was that no one can remember everything and a blog is the perfect way to quickly look up something you've discovered or resolved a few months ago. 
 
 I didn't immediately start a blog after Lorna's talk. It was a bit intimidating. Why would anyone want to read what I think, discover and write? 
 
@@ -13,11 +13,9 @@ A few months later my personal notes filled with self discovery and google looku
 
 # Why would anyone want to read what I write, I ask. Well that's not the the point. This blog is for me. 
 <br/>
-If my blog happens to help anyone else, that's a bonus.
+If my blog can help anyone else, that's a bonus.
 
 <br/>
 <hr>
 
 ##### <a href="http://www.bear-writer.com/">Bear - a writing app</a>, is my personal note keeper. I highly recommend it. 
-
-<br/>
