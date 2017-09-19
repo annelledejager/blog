@@ -14,5 +14,5 @@ Jekyll was recommend by a friend. I tried it, liked it and my blog is currently 
 		—<a href="https://jekyllrb.com/docs/home/">Jekyll</a> 
 </blockquote>
 
-Why I like Jekyll? I can write markup, push to a Github repository and host my blog for free. There are also a variety of out-of-the-box themes to choose from.
+Why I like Jekyll? I can write markup, push to a Github repository and host my blog for free. There are also a variety of out-of-the-box <a href="http://jekyllthemes.org/">themes</a> to choose from.
 
