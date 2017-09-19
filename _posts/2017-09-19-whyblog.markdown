@@ -11,8 +11,9 @@ I didn't immediately start my blog after Lorna's talk. It was a bit intimidating
 
 A few months later my personal notes filled with self discovery and google lookups started to become lengthy and unorganized. I used these notes daily and found it very useful, but I accidently removed the writing app along with all my precious notes. It was then when it hit me, I need a more permanent location for my notes. 
 
-# Why would anyone want to read what I think and write, I ask. Well that's not the the point. This blog is for me. 
+## Why would anyone want to read what I think and write, I ask. Well that's not the the point. This blog is for me. 
+
 
 If my blog can help anyone else, then that's a bonus.
 
-My personal note keeper is <a href="http://www.bear-writer.com/">Bear - a writing app</a>. I highly recommend it. 
+##### My personal note keeper is <a href="http://www.bear-writer.com/">Bear - a writing app</a>. I highly recommend it. 
