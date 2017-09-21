@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solo traveling
+title: solo traveling
 description: a must in my opinion
 img: /blog/img/5.jpg
 date: 2017-09-19 20:28:00
