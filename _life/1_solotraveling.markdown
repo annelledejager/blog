@@ -25,7 +25,12 @@ I moved to Budapest, Hungary from South Africa earlier this year to work and tra
 <ul>
 	<li><b>For first time solo travelers, choose an "easy" city</b></li>
 
-		<img class="col one right" src="/blog/img/solotravel2.jpg">
+		<figure class="col one right" >
+			<img src="/blog/img/solotravel2.jpg" width="216" height="164">
+			<figcaption>
+				<b>Copenhagen, Denmark May 2017</b>
+			</figcaption>
+		</figure>
 
 		If it's your first time traveling solo and/or you are bad with directions, then pick an “easy” city. This means pick a city that boasts tourism. It's usually easy to get around, easy to find monuments/museums, easy to find English speakers and easy to make friends in hostels in these cities. Example "easy" cities are Barcelona, London, Dublin, Copenhagen, Lisbon etc.
 
@@ -48,7 +53,12 @@ I moved to Budapest, Hungary from South Africa earlier this year to work and tra
 
 	<li><b>Arrange an activity</b></li>	
 
-		<img class="col one right" src="/blog/img/solotravel1.jpg">
+		<figure class="col one right" >
+			<img src="/blog/img/solotravel1.jpg" width="216" height="268">
+			<figcaption>
+				<b>Dublin, Ireland July 2017</b>
+			</figcaption>
+		</figure>
 
 		Give your trip a purpose. It will keep you busy and your mind away from the fact that you are by yourself. I ran a half marathon race in Dublin, Ireland earlier this year. The preparation for the race and the celebration after made my trip extremely memorable.
 
@@ -59,5 +69,16 @@ I moved to Budapest, Hungary from South Africa earlier this year to work and tra
 
 So I leave you with this - book that trip that you've always wanted to. It's ok to invite your friends, but don't wait for them before booking your trip. They could back out last minute. If they do, embrace solo traveling with open arms and I promise you, it might just be the best experience of your life.
 
-<img class="col one" src="/blog/img/solotravel5.jpg">
-<img class="col two" src="/blog/img/solotravel4.jpg">
+<figure class="col one">
+	<img src="/blog/img/solotravel5.jpg" width="233" height="233">
+	<figcaption>
+		<b>Vienna, Austria February 2017</b>
+	</figcaption>
+</figure>
+
+<figure class="col two right" style="padding-left: 15px">
+	<img src="/blog/img/solotravel4.jpg" width="460" height="355">
+	<figcaption>
+		<b>Budapest, Hungary September 2017</b>
+	</figcaption>
+</figure>
