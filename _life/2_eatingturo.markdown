@@ -31,7 +31,7 @@ My favourite Túró recipe is <b>Cottage cheese pasta with caramelized bacon</b>
 
 
 <figure class="col one right" >
-	<img src="/blog/img/pasta.jpg" width="220" height="220">
+	<img src="/blog/img/pasta.jpg" width="220" height="250">
 </figure>
 
 #### Ingredients
