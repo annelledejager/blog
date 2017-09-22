@@ -9,7 +9,7 @@ comments: true
 
 1. Create a file /css/style.scss 
 2. Add the following content to the top of the file
-3. Add custom CSS 
+3. Add custom CSS below the import
 
 {% highlight ruby %}
 ---
@@ -22,7 +22,7 @@ comments: true
 
 1. Create a file /_layouts/custom.html 
 2. Customize the layout as you'd like
-3. Change the layout the front matter to use the custom template
+3. Change the front matter of the page or post to use the custom template
 
 {% highlight ruby %}
 ---
