@@ -12,9 +12,9 @@ comments: true
 3. Add custom CSS 
 
 {% highlight ruby %}
-	---
-	---
-	@import "{{ site.theme }}";
+---
+---
+@import "{{ site.theme }}";
 {% endhighlight %}
 
 
@@ -25,10 +25,10 @@ comments: true
 3. Change the layout the front matter to use the custom template
 
 {% highlight ruby %}
-	---
-	layout: custom
-	title: blogging like a pro
-	---
+---
+layout: custom
+title: blogging like a pro
+---
 {% endhighlight %}
 
 
@@ -38,10 +38,8 @@ I chose <a href="https://disqus.com/">Disqus</a> for adding commenting functiona
 1. Register on Disqus
 2. Create a file _includes/disqus.html
 3. Add the code provided by Disqus after registration
-4. Modify the file _layouts/post.html to include 
-{% highlight ruby %}
-	{% include disqus.html %}
-{% endhighlight %}
+4. Modify the file _layouts/post.html to include `include disqus.html`
+
 
 #### Analytics
 1. Create an account through Google Analytics Admin

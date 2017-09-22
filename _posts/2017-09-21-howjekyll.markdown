@@ -48,10 +48,10 @@ Jekyll will transform any .html, .markdown or .md files.
 Any file that contains a YAML front matter block will be processed by Jekyll as a special file. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines. 
 
 {% highlight ruby %}
-	---
-	layout: post
-	title: blogging like a pro
-	---
+---
+layout: post
+title: blogging like a pro
+---
 {% endhighlight %}
 
 #### A frew tricky things
@@ -59,7 +59,7 @@ Any file that contains a YAML front matter block will be processed by Jekyll as 
 - Add your favicon link to the header.  If your favicon does not appear, refresh your browser cache.
 
 {% highlight ruby %}
-	<link rel="shortcut icon" type="image/x-icon" href="{{ "/img/favicon.ico?" | prepend: site.baseurl }}">
+<link rel="shortcut icon" type="image/x-icon" href="{{ "/img/favicon.ico?" | prepend: site.baseurl }}">
 {% endhighlight %}
 
 Start blogging! 
