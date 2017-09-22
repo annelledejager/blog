@@ -9,19 +9,20 @@ comments: true
 
 1. Create a file /css/style.scss 
 2. Add the following content to the top of the file
+3. Add custom CSS 
 
 {% highlight ruby %}
 	---
 	---
 	@import "{{ site.theme }}";
 {% endhighlight %}
-3. Add custom CSS 
 
 
 #### Customizing your Jekyll theme's HTML layout
 
 1. Create a file /_layouts/custom.html 
-2. Customize the layout as you'd like.
+2. Customize the layout as you'd like
+3. Change the layout the front matter to use the custom template
 
 {% highlight ruby %}
 	---
@@ -29,8 +30,6 @@ comments: true
 	title: blogging like a pro
 	---
 {% endhighlight %}
-
-3. Change the layout the front matter to use the custom template
 
 
 #### Comments
@@ -40,12 +39,9 @@ I chose <a href="https://disqus.com/">Disqus</a> for adding commenting functiona
 2. Create a file _includes/disqus.html
 3. Add the code provided by Disqus after registration
 4. Modify the file _layouts/post.html to include `{% include disqus.html %}`
-
 #### Analytics
 1. Create an account through Google Analytics Admin
 2. Google will provide a JavaScript tracking snippet". Add it to _includes/head.html so that it will be added to every page.
-
-
 {% highlight ruby %}
 <!-- Global Site Tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-106746652-1"></script>
@@ -57,7 +53,6 @@ I chose <a href="https://disqus.com/">Disqus</a> for adding commenting functiona
   gtag('config', 'UA-XXXXXXXXXXX);
 </script>
 {% endhighlight %}
-
 #### References
 <a href="https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/">Customizing CSS and HTML in your Jekyll theme</a>
 <br /> 
