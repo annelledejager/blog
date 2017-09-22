@@ -21,8 +21,8 @@ After my first disappointment with Túró Rudi, I stayed away from it for quite 
 What is Túró? 
 
 <blockquote>
-	Túró is an essential ingredient in Hungarian cooking. Túró is similar to fromage frais, but is not. Túró is often translated as cottage cheese, but it bears no relation to liquidy cottage cheese. Dictionaries sometimes translate it as curd cheese or quark or farmer’s cheese. But it’s none of the above. Túró is distinctly different from ricotta, because ricotta is made from scalded whey. It also differs from cream cheese in its usually much lower fat content (about the same as yogurt), and it is completely salt free.
-		—<a href="http://zsuzsaisinthekitchen.blogspot.hu/2009/01/hungarian-curd-cheese-tur.html">zsuzsaisinthekitchen</a> 
+Túró is an essential ingredient in Hungarian cooking. Túró is similar to fromage frais, but is not. Túró is often translated as cottage cheese, but it bears no relation to liquidy cottage cheese. Dictionaries sometimes translate it as curd cheese or quark or farmer’s cheese. But it’s none of the above. Túró is distinctly different from ricotta, because ricotta is made from scalded whey. It also differs from cream cheese in its usually much lower fat content (about the same as yogurt), and it is completely salt free.
+	—<a href="http://zsuzsaisinthekitchen.blogspot.hu/2009/01/hungarian-curd-cheese-tur.html">zsuzsaisinthekitchen</a> 
 </blockquote>
 
 Túró soon became part of my daily life. From breakfast to dinner, from salty to sweet. It adds body to every meal. I usually mix half yogurt, half Túró and add sugar or honey for breakfast. I also add dollops of Túró to my soup. I've made delicious chunky tzatziki with Túró. The possibilities are endless. 

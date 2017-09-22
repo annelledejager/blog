@@ -16,8 +16,8 @@ Please refer to <a href="https://annelledejager.github.io/blog/2017/09/20/whyjek
 4. Create a new branch in your blog repository named `gh-pages`
 
 <blockquote>
-	GitHub Pages is a static site hosting service.
-		—<a href="https://help.github.com/articles/what-is-github-pages/">Github pages</a> 
+GitHub Pages is a static site hosting service.
+	—<a href="https://help.github.com/articles/what-is-github-pages/">Github pages</a> 
 </blockquote>
 
 5. Remove the `master` branch, you will be commiting to the `gh-pages` branch from now on
