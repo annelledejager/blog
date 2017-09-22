@@ -45,9 +45,9 @@ Please refer to <a href="https://annelledejager.github.io/blog/2017/09/20/whyjek
 Jekyll will transform any .html, .markdown or .md files.
 
 #### A frew tricky things
-- If your css looks originally looks a bit weird, change the baseurl in config the file.
-- Add your favicon link to the header.  If your favicon does not want to appear, refresh your browser cache. 
-```<!-- {{ site.title }} instead of blog -->
-<a class="page-link" href="{{ site.baseurl }}/">blog</a>```
+- If your css looks a bit weird in the browser, change the baseurl in the config file.
+- Add your favicon link to the header.  If your favicon does not appear, refresh your browser cache.
+<br /> 
+```<a class="page-link" href="{{ site.baseurl }}/">blog</a>```
 
 Start blogging! 
