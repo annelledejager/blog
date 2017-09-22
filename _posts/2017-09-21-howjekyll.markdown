@@ -58,6 +58,6 @@ Any file that contains a YAML front matter block will be processed by Jekyll as 
 - If your css looks a bit weird in the browser, change the baseurl in the config file.
 - Add your favicon link to the header.  If your favicon does not appear, refresh your browser cache.
 <br /> 
-```<a class="page-link" href="{{ site.baseurl }}/">blog</a>```
+```<link rel="shortcut icon" type="image/x-icon" href="{{ "/img/favicon.ico?" | prepend: site.baseurl }}">```
 
 Start blogging! 
