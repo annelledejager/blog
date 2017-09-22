@@ -38,7 +38,11 @@ I chose <a href="https://disqus.com/">Disqus</a> for adding commenting functiona
 1. Register on Disqus
 2. Create a file _includes/disqus.html
 3. Add the code provided by Disqus after registration
-4. Modify the file _layouts/post.html to include `{% include disqus.html %}`
+4. Modify the file _layouts/post.html to include 
+{% highlight ruby %}
+	{% include disqus.html %}
+{% endhighlight %}
+
 #### Analytics
 1. Create an account through Google Analytics Admin
 2. Google will provide a JavaScript tracking snippet". Add it to _includes/head.html so that it will be added to every page.
@@ -53,6 +57,7 @@ I chose <a href="https://disqus.com/">Disqus</a> for adding commenting functiona
   gtag('config', 'UA-XXXXXXXXXXX);
 </script>
 {% endhighlight %}
+
 #### References
 <a href="https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/">Customizing CSS and HTML in your Jekyll theme</a>
 <br /> 
