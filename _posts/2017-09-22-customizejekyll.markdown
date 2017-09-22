@@ -9,11 +9,12 @@ comments: true
 
 1. Create a file /css/style.scss 
 2. Add the following content to the top of the file
-<blockquote>
-	---<br /> 
-	---<br /> 
-	@import "{{ site.theme }}";<br /> 
-</blockquote>
+
+{% highlight ruby %}
+	---
+	---
+	@import "{{ site.theme }}";
+{% endhighlight %}
 3. Add custom CSS 
 
 
@@ -21,12 +22,14 @@ comments: true
 
 1. Create a file /_layouts/custom.html 
 2. Customize the layout as you'd like.
-<blockquote>
-	---<br /> 
-	layout: custom<br /> 
-	title: Blogging Like a Hacker<br /> 
-	---<br /> 
-</blockquote>
+
+{% highlight ruby %}
+	---
+	layout: custom
+	title: blogging like a pro
+	---
+{% endhighlight %}
+
 3. Change the layout the front matter to use the custom template
 
 
@@ -57,4 +60,5 @@ I chose <a href="https://disqus.com/">Disqus</a> for adding commenting functiona
 
 #### References
 <a href="https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/">Customizing CSS and HTML in your Jekyll theme</a>
+<br /> 
 <a href="http://romantsegelskyi.github.io/blog/2015/07/26/personal-page-blog/">Personal page and blog using Github pages and Jekyll</a>
