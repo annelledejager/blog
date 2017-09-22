@@ -14,7 +14,7 @@ comments: true
 {% highlight ruby %}
 ---
 ---
-@import "{{ site.theme }}";
+@import "SITE_THEME";
 {% endhighlight %}
 
 
