@@ -44,6 +44,16 @@ Please refer to <a href="https://annelledejager.github.io/blog/2017/09/20/whyjek
 
 Jekyll will transform any .html, .markdown or .md files.
 
+#### Front matter
+Any file that contains a YAML front matter block will be processed by Jekyll as a special file. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines. 
+
+<blockquote>
+	---
+	layout: post
+	title: Blogging Like a Hacker
+	---
+</blockquote>
+
 #### A frew tricky things
 - If your css looks a bit weird in the browser, change the baseurl in the config file.
 - Add your favicon link to the header.  If your favicon does not appear, refresh your browser cache.
