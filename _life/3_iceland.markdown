@@ -311,7 +311,7 @@ For more road signs, see <a href="https://www.arctic.is/traffic-signs/">here</a>
 - Some landmarks require walking, hiking or climbing to reach. Wear appropriate clothes - hiking shoes, rain jacket etc.  
 - Allow ±1 hour per stop
 - Entrance to landmarks are free except Kerið ±8 Euro
-- Icelanders don't eat horse. They are used for companionship and exporting. 
+- Icelanders don't eat horse. The Icelandic horses are used for companionship and exporting. 
 - <b>Icelanders are the friendliest people. Don't hesitate to ask for directions or assistance. They will gladly help with a smile.</b>
 
 #### Tips
