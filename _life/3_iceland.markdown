@@ -1,7 +1,7 @@
-x---
+---
 layout: post
 title: iceland
-description: a 7 day road trip
+description: a 7 day self drive road trip
 date: 2017-10-01 11:17:00
 comments: true
 ---
