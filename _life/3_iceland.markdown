@@ -229,7 +229,7 @@ We had some time to spare and went to look at the Sun Voyager and the opera hous
 </figure>
 
 <figure class="col one">
-	<img src="/blog/img/iceland9.jpg" width="200" height="300">
+	<img src="/blog/img/iceland9.jpg" width="200" height="260">
 	<figcaption>
 		<b>Hot dog from Bæjarins Beztu Pylsur</b>
 	</figcaption>
@@ -256,34 +256,38 @@ Reykjavik is filled with exciting artsy and hip stores. The prices are a little 
 
 We left Reykjavik to the airport on the flybus at 2pm. We were satisfied with our experience and ready to go home. 
 
-#### List of landmarks. How we rate them, category and difficulty.
+#### List of landmarks. Category, difficulty and how we rate them.
+In the order they appear anti-clockwise on the Ring Road.
+<br/>
 1 "stop if you have time" to 5 "a must stop"
 
-[waterfall][easy][5] Seljalandsfoss 
-[waterfall][difficult][1] Gljúfrafoss
-[waterfall][medium][5] Skógafoss
-[thermal pool][easy][3] Seljavellir geothermal pool
-[plane wreck][difficult][5] Solheimasandur plane wreck
-[viewing point][easy][-] Dyrhólaey
-[beach][easy][4] Reynisfjara Beach
-[beach][easy][1] Schwarzer Strand
-[canyon][difficult][5] Fjaðrárgljúfur
-[waterfall][easy][1] Foss a Sidu
-[waterfall][easy][1] Foss
-[waterfall][difficult][4] Svartifoss waterfall 
-[glacier][medium][5] Skaftafellsjökull Glacier Trail
-[glacier][easy][5] Jökulsárlón
-[waterfall][medium][5] Dettifoss
-[boiling mud pits][easy][4] Hverir
-[lake][easy][-] Mývatn
-[thermal pool][easy][2] Grjótagjá
-[lava fields][easy][4] Dimmuborgir
-[waterfalls][medium][1] Goðafoss
-[thermal pool][easy][5] Grettislaug
-[geyser][easy][5] Geysir
-[waterfall][medium][3] Gullfoss
-[volcano][medium][4] Kerið
-[thermal pool][easy][5] Blue Lagoon
+<ul style="list-style-type:none"> 
+	<li><b>Seljalandsfoss</b> [waterfall] [easy] [5]</li>
+	<li><b>Gljúfrafoss</b> [waterfall] [difficult] [1]</li>
+	<li><b>Skógafoss </b>[waterfall][medium][5]</li>
+	<li><b>Seljavellir geothermal pool </b>[thermal pool] [easy] [3]</li>
+	<li><b>Solheimasandur plane wreck </b>[plane wreck] [difficult] [5]</li>
+	<li><b>Dyrhólaey </b>[viewing point] [easy] [-]</li>
+	<li><b>Reynisfjara Beach </b>[beach] [easy] [4]</li>
+	<li><b>Schwarzer Strand </b>[beach] [easy] [1]</li>
+	<li><b>Fjaðrárgljúfur </b>[canyon] [difficult] [5]</li>
+	<li><b>Foss a Sidu </b>[waterfall] [easy] [1]</li>
+	<li><b>Foss </b>[waterfall] [easy] [1]</li>
+	<li><b>Svartifoss waterfall </b>[waterfall] [difficult] [4]</li> 
+	<li><b>Skaftafellsjökull Glacier Trail </b>[glacier] [medium] [5]</li>
+	<li><b>Jökulsárlón </b>[glacier] [easy] [5]</li>
+	<li><b>Dettifoss </b>[waterfall] [medium] [5]</li>
+	<li><b>Hverir </b>[boiling mud pits] [easy] [4]</li>
+	<li><b>Mývatn </b>[lake] [easy] [-]</li>
+	<li><b>Grjótagjá </b>[thermal pool] [easy] [2]</li>
+	<li><b>Dimmuborgir </b>[lava fields] [easy] [4]</li>
+	<li><b>Goðafoss </b>[waterfalls] [medium] [1]</li>
+	<li><b>Grettislaug </b>[thermal pool] [easy] [5]</li>
+	<li><b>Geysir </b>[geyser] [easy] [5]</li>
+	<li><b>Gullfoss </b>[waterfall] [medium] [3]</li>
+	<li><b>Kerið </b>[volcano] [medium] [4]</li>
+	<li><b>Blue Lagoon </b>[thermal pool] [easy] [5]</li>
+</ul>
 
 #### Important road signs
 <div align="center">
