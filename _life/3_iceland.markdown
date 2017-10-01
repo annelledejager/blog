@@ -1,4 +1,4 @@
----
+x---
 layout: post
 title: iceland
 description: a 7 day road trip
@@ -94,7 +94,7 @@ By lunch time we were very cold and wet. I read somewhere about a geothermal poo
 	</figcaption>
 </figure>
 
-The next stop was the Solheimasandur plane wreck. This stop was the most anticipated stop on my list. The walk was ±3km one way. It was pouring with rain and my boyfriend's jacket started to soak through. We are active people and we found the walk quite strenuous, but it might have been the bad weather conditions. The landscape was moonlike and the site of the plane was eerie. It was worth the walk!
+The next stop was the Solheimasandur plane wreck. This stop was the most anticipated stop on my list. The walk was ±3km one way. It was pouring with rain and my boyfriend's jacket started to soak through. We found the walk quite lengthy. It might be because we did not research how long it would take to get there. There were no signs indicating the distance. The landscape was moonlike and the site of the plane was eerie. It was worth the walk!
 
 <blockquote>
 In 1973 a United States Navy DC plane ran out of fuel and crashed on the black beach at Sólheimasandur, in the South Coast of Iceland. Fortunately, everyone in that plane survived. Later it turned out that the pilot had simply switched over to the wrong fuel tank. The remains are still on the sand very close to the sea.
