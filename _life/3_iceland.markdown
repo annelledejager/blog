@@ -67,7 +67,7 @@ The next morning we woke up to a snowy mountain view. We made coffee and ate hom
 	</figcaption>
 </figure>
 
-Our first stop after breakfast was Seljalandsfoss. One can walk behind the waterfall which makes for great photo's. Gljúfrafoss is right next to it. It's a smaller waterfall and you have to climb steep rocks to unveil the real beauty of it. 
+Our first stop after breakfast was Seljalandsfoss. One can walk behind the waterfall which makes for great photos. Gljúfrafoss is right next to it. It's a small waterfall and you have to climb steep rocks to unveil the real beauty of it. 
 
 We headed to Skógafoss. You can view Skógafoss from below or from the top. You have to climb quite a few steep stairs to reach the top. It was pouring with rain by the time we reached Skógafoss. 
 
@@ -118,9 +118,9 @@ We woke up fairly early due to the howling wind and rain pushing our RV around. 
 
 We started driving towards Vatnajökull National Park. The landscape started changing into what I can explain as moss covered mushrooms. It's almost impossible to capture on camera. The effect is just not the same. We stopped at the first landscape sign along the way, Fjaðrárgljúfur. A canyon up to 100m deep. It was quite a trek up to the view point. A must in my opinion and one of my favourite landmarks.
 
-After that there are two waterfalls next to the road Foss a Sidu and Foss. ±5 min stop each. We reached Skaftafell which is a wilderness area in the Vatnajökull National Park. It was still a bit misty when we drove in so we headed straight to the parking lot. The hike to the Svartifoss waterfall was ±1.4km uphill. By this time we had seen a lot of waterfalls, but this one was a little bit different. The views from the top is worth the hike alone. By the time we reached the parking lot, the mist had cleared. We ate peanut butter sandwiches before we started driving again. 
+After that there are two waterfalls next to the road Foss a Sidu and Foss. ±5 minutes stop each. We reached Skaftafell which is a wilderness area in the Vatnajökull National Park. It was still a bit misty when we drove in so we headed straight to the parking lot. The hike to the Svartifoss waterfall was ±1.4km uphill. By this time we had seen a lot of waterfalls, but this one was a little bit different. The views from the top is worth the hike alone. By the time we reached the parking lot, the mist had cleared. We ate peanut butter sandwiches before we started driving again. 
 
-We were greeted by a glacier stretching from the top of the mountain to the bottom. We had missed it driving into the park due to the weather. We had to stop. Everyone warns you against walking on glaciers unguided. We hesitated to enter the glacier area, but it was fine to walk up to the glacier to view it. Just don't walk onto it. The trail to the glacier is called Skaftafellsjökull Trail ±1hour. 
+We were greeted by a glacier stretching from the top of the mountain to the bottom. We had missed it driving into the park due to the weather. We had to stop. Everyone warns you against walking on glaciers unguided. We hesitated to enter the glacier area, but it was fine to walk up to the glacier to view it. Just don't walk onto it. The trail to the glacier is called Skaftafellsjökull Trail ±1 hour. 
 
 <figure>
 	<img src="/blog/img/iceland14.jpg" width="700" height="500">
@@ -186,11 +186,11 @@ There are one small and one larger pool. The water hot, but perfect. One can see
 
 We moved on to the west side of Iceland where we slept next to running water. It was warm outside and we could make dinner and enjoy our 2.25% beers outside. 
 
-# Day 6 - golden circle and nothern lights
+# Day 6 - golden circle and northern lights
 <br/>
 We headed back to civilization. On the way to Reykjavik we drove through an under the sea tunnel, Hvalfjörður Tunnel. We decided to do the Golden Circle since we were close to finishing the Ring Road. This is a popular tourist route which has a few landmarks and is ±300 kms. The amount of tourists at each stops increased by 80%. There were shops, toilets and restaurants at every stop. 
 
-Our first stop was the Geysir. It started raining again. The walk was minor and the geysir erupted promptly every 5-7 minutes. I loved it. We stopped at the Gullfoss waterfall. It is a bit of a walk down and we were a bit numb to seeing waterfalls by this time.
+Our first stop was the Geysir. It started raining again. The walk was minor. The Geysir only erupts after an earthquake. The Strokkur geyser, however, erupted promptly every 5-7 minutes. I loved it. We stopped at the Gullfoss waterfall. It is a bit of a walk down and we were a bit numb to seeing waterfalls by this time.
 
 <figure class="col one left">
 	<img src="/blog/img/iceland16.jpg" width="216" height="280">
@@ -256,33 +256,34 @@ Reykjavik is filled with exciting artsy and hip stores. The prices are a little 
 
 We left Reykjavik to the airport on the flybus at 2pm. We were satisfied with our experience and ready to go home. 
 
-#### List of landmarks and how we rate them
+#### List of landmarks. How we rate them, category and difficulty.
 1 "stop if you have time" to 5 "a must stop"
-- Seljalandsfoss 
-- Gljúfrafoss
-- Skógafoss
-- Seljavellir geothermal pool
-- Solheimasandur plane wreck
-- Dyrhólaey
-- Reynisfjara Beach
-- Schwarzer Strand
-- Fjaðrárgljúfur
-- Foss a Sidu
-- Foss
-- Svartifoss waterfall 
-- skaftafellsjökull glacier trail
-- Jökulsárlón
-- Dettifoss
-- Hverir
-- Mývatn
-- Grjótagjá
-- Dimmuborgir
-- Goðafoss
-- Grettislaug
-- Geysir
-- Gullfoss
-- Kerið
-- Blue Lagoon
+
+[waterfall][easy][5] Seljalandsfoss 
+[waterfall][difficult][1] Gljúfrafoss
+[waterfall][medium][5] Skógafoss
+[thermal pool][easy][3] Seljavellir geothermal pool
+[plane wreck][difficult][5] Solheimasandur plane wreck
+[viewing point][easy][-] Dyrhólaey
+[beach][easy][4] Reynisfjara Beach
+[beach][easy][1] Schwarzer Strand
+[canyon][difficult][5] Fjaðrárgljúfur
+[waterfall][easy][1] Foss a Sidu
+[waterfall][easy][1] Foss
+[waterfall][difficult][4] Svartifoss waterfall 
+[glacier][medium][5] Skaftafellsjökull Glacier Trail
+[glacier][easy][5] Jökulsárlón
+[waterfall][medium][5] Dettifoss
+[boiling mud pits][easy][4] Hverir
+[lake][easy][-] Mývatn
+[thermal pool][easy][2] Grjótagjá
+[lava fields][easy][4] Dimmuborgir
+[waterfalls][medium][1] Goðafoss
+[thermal pool][easy][5] Grettislaug
+[geyser][easy][5] Geysir
+[waterfall][medium][3] Gullfoss
+[volcano][medium][4] Kerið
+[thermal pool][easy][5] Blue Lagoon
 
 #### Important road signs
 <div align="center">
@@ -300,7 +301,7 @@ For more road signs, see <a href="https://www.arctic.is/traffic-signs/">here</a>
 - Portable toilets available at allocated stops. Clean with toilet paper and hand sanitizer. 
 - Some landmarks require walking, hiking or climbing to reach. Wear appropriate clothes - hiking shoes, rain jacket etc.  
 - Allow ±1 hour per stop
-- Entrence to landmarks are free except Kerið ±8 Euro
+- Entrance to landmarks are free except Kerið ±8 Euro
 - Icelanders don't eat horse. They are used for companionship and exporting. 
 
 #### Tips
