@@ -242,7 +242,7 @@ We had some time to spare and went to look at the Sun Voyager and the opera hous
 
 The bus ride to the Blue Lagoon took ±50 minutes. You feel pampered from the moment you get there to when you enter into the pool. <b>Tip: apply a lot of conditioner to your hair, leave it in and tie it up when in the pool.</b>  
 
-The pool area is enchanting. The water is baby blue. The perfect temperature welcomes you. There are a mask bar, an alcohol bar, fresh water to drink, saunas, steam rooms and obviously the large pool area. We opted for the cheapest ticket which includes pool entry and a mask which is plenty. <b>Note: the beers at the pool is Gull, which we enjoyed, but was very pricy.</b>
+The pool area is enchanting. The water is baby blue. The perfect temperature welcomes you. There are a mask bar, an alcohol bar, fresh water to drink, saunas, steam rooms and obviously the large pool area. We opted for the cheapest ticket which includes pool entry and a mask which is plenty. <b>Note: the beers at the pool is Gull, which we enjoyed, but was very pricey.</b>
 
 <figure>
 	<img src="/blog/img/iceland7.jpg" width="700" height="500">
