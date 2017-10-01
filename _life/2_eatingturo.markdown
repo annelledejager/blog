@@ -25,7 +25,7 @@ Túró is an essential ingredient in Hungarian cooking. Túró is similar to fro
 	—<a href="http://zsuzsaisinthekitchen.blogspot.hu/2009/01/hungarian-curd-cheese-tur.html">zsuzsaisinthekitchen</a> 
 </blockquote>
 
-Túró soon became part of my daily life. From breakfast to dinner, from salty to sweet. It adds body to every meal. I usually mix half yogurt, half Túró and add sugar or honey for breakfast. I also add dollops of Túró to my soup. I've made delicious chunky tzatziki with Túró. The possibilities are endless. 
+Túró soon became part of my daily life. From breakfast to dinner, from salty to sweet. It adds body to every meal. I usually mix half yogurt, half Túró, cinnamon and sugar or honey for breakfast. I also add dollops of Túró to my soup. I've made delicious chunky tzatziki with Túró. The possibilities are endless. 
 
 My favourite Túró recipe is <b>Cottage cheese pasta with caramelized bacon</b> from Budapest Bites by Zsofia Mautner.
 
