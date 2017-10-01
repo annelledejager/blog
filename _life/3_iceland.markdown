@@ -224,7 +224,7 @@ The northern lights (Lat. aurora borealis) appear when electrically charged part
 <br/>
 We drove ±1 hour back to Reykjavik. We visited the Reykjavik lighthouse while we still had the car. We dropped off the car at BSI Terminal around 10am. We walked to town which took ±20 minutes. We left our luggage at <a href="http://www.hostel.is/Hostels/Reykjavikdowntown">Downtown hostel</a>. They have the the friendliest staff. We packed our swimming costumes and towels and headed to bus stop 4 to get picked up to go to the Blue Lagoon. 
 
-We had some time to spare and went to look at the Sun Voyager and the opera house. We had hot dogs at the famous <a href="http://www.bbp.is/">Bæjarins Beztu Pylsur</a> stand for ±4 Euros each. The cheapest dining experience you will get in Reykjavik. The hot dogs were small, but delicious. You could taste the lam in the sausage and the sauces were special too. 
+We had some time to spare and went to look at the Sun Voyager and the opera house. We had hot dogs at the famous <a href="http://www.bbp.is/">Bæjarins Beztu Pylsur</a> stand for ±4 Euros each. The cheapest dining experience you will get in Reykjavik. The hot dogs were small, but delicious. You could taste the lamb in the sausage and the sauces were special too. 
 
 <figure class="col two">
 	<img src="/blog/img/iceland8.jpg" width="400" height="300">
@@ -312,6 +312,7 @@ For more road signs, see <a href="https://www.arctic.is/traffic-signs/">here</a>
 - Allow ±1 hour per stop
 - Entrance to landmarks are free except Kerið ±8 Euro
 - Icelanders don't eat horse. They are used for companionship and exporting. 
+- <b>Icelanders are the friendliest people. Don't hesitate to ask for directions or assistance. They will gladly help with a smile.</b>
 
 #### Tips
 Bring a warm water flask, a car charger and wet wipes. Plan your meals. Bring dry foods with you and buy perishables at Kronan. Avoid restaurants. Use google maps available on your phone. All landmarks are marked with a description, reviews and picture.
