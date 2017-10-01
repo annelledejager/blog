@@ -251,7 +251,7 @@ The pool area is enchanting. The water is baby blue. The perfect temperature wel
 	</figcaption>
 </figure>
 
-We left the Blue Lagoon after ±4 hours feeling relaxed and tired. We went home to cook dinner at the hostel and sleep. The white goose feather and down duvets greeted us with open arms. 
+We left the Blue Lagoon after ±4 hours feeling relaxed and tired. We went home to cook dinner at the hostel. The white goose feather and down duvets greeted us with open arms. 
 
 # Day 8 - shopping in Reykjavik
 <br/>
