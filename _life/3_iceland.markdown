@@ -105,7 +105,7 @@ We woke up fairly early due to the howling wind and rain pushing our RV around. 
 <figure class="col one">
 	<img src="/blog/img/iceland3.jpg" width="216" height="164">
 	<figcaption>
-		<b>Reynisfjara Beach</b>
+		<b>Reynisfjara</b>
 	</figcaption>
 </figure> 
 
@@ -221,15 +221,15 @@ We drove ±1 hour back to Reykjavik. We visited the Reykjavik lighthouse while w
 
 We had some time to spare and went to look at the Sun Voyager and the opera house. We had hot dogs at the famous <a href="http://www.bbp.is/">Bæjarins Beztu Pylsur</a> stand for ±4 Euros each. The cheapest dining experience you will get in Reykjavik. The hot dogs were small, but delicious. You could taste the lam in the sausage and the sauces were special too. 
 
-<figure class="col one">
-	<img src="/blog/img/iceland8.jpg" width="216" height="164">
+<figure class="col two">
+	<img src="/blog/img/iceland8.jpg" width="400" height="300">
 	<figcaption>
 		<b>Sun Voyager</b>
 	</figcaption>
 </figure>
 
 <figure class="col one">
-	<img src="/blog/img/iceland9.jpg" width="216" height="164">
+	<img src="/blog/img/iceland9.jpg" width="200" height="300">
 	<figcaption>
 		<b>Hot dog from Bæjarins Beztu Pylsur</b>
 	</figcaption>
