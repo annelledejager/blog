@@ -22,7 +22,7 @@ Iceland has a concentrated tourist season, peaking from mid-June through August.
 	—<a href="http://www.frommers.com/destinations/iceland/when-to-go">Frommers</a> 
 </blockquote>
 
-The best thing about the RV is flexibility. We had no plans except the direction of the Ring Road we intended to take. With the portable wifi in the car we could plan as we go. The lack of plans made our trip unique and spontaneous. <b>Tip: add a portable wifi to your RV rental.</b>
+The best thing about the RV is flexibility. We had no plans except the direction of the Ring Road we intended to take. With the portable wifi in the car we could plan as we go. The lack of plans made our trip unique and spontaneous. <b>Tip: add a portable wifi to your RV rental.</b> The weather was a bit unpredictable. It rained the first and last days, but was cloudy to sunny in between. It was ±8 °C daily and the temperatures dropped to ±5 °C at night. Early mornings and cleaning dishes were our main reminders of the cold. 
 
 What is the Ring Road?
 <blockquote>
@@ -40,9 +40,16 @@ Route 1 or the Ring Road (Icelandic: Þjóðvegur 1 or Hringvegur) is a national
 	</figcaption>
 </figure>
 
-I struggled to find a single website that lists all the landmarks one could see in Iceland. It was also hard to find a specific route to follow. So whe just started driving and stopped when we found the landmark sign aka place of interest sign as seen on the left. 
+I struggled to find a single website that lists all the landmarks one could see in Iceland. It was also hard to find a specific route to follow. So whe just started driving and stopped when we found the landmark aka place of interest sign as seen on the left. I listed the landmarks in the order we visited them at the end of this post. 
 
 <b>Tip: Check on google maps if the landmark is something you're interested in seeing. Google maps indicates all landmarks with a description, reviews and pictures.</b>
+
+<figure class="col">
+	<img src="/blog/img/icelandmap.jpg" width="700" height="450">
+	<figcaption>
+		<b>My interpretation of our trip</b>
+	</figcaption>
+</figure>
 
 This post should not be followed to the point, but should be used as a rough guideline with time allowed for venturing off track. 
 
@@ -168,14 +175,12 @@ It was so cold in the morning that we decided to persevere without making breakf
 
 Hofsos has the most beautiful warm water designer swimming pool overlooking the ocean. It closed at 1pm when we arrived. We were disappointed, but we headed to Grettislaug nearby instead. Grettislaug is one of the most authentic geothermal pool experiences you can have in Iceland. It is ±30 minutes drive from the main road. It is privately owned and cost ±7 Euro. 
 
-<div align="center">
 <figure>
 	<img src="/blog/img/iceland11.jpg" width="700" height="500">
 	<figcaption>
 		<b>Grettislaug</b>
 	</figcaption>
 </figure>
-</div>
 
 <blockquote>
 This legendary bathing spot at Reykir in Skagafjordur in North Iceland is the bathing place of Grettir the Strong from Saga lore. Located by the seaside with amazing views, the geothermal pool has been constructed with natural stones.
