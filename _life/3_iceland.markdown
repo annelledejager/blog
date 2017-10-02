@@ -313,6 +313,7 @@ For more road signs, see <a href="https://www.arctic.is/traffic-signs/">here</a>
 - Entrance to landmarks are free except Kerið ±8 Euro
 - Icelanders don't eat horse. The Icelandic horses are used for companionship and exporting. 
 - <b>Icelanders are the friendliest people. Don't hesitate to ask for directions or assistance. They will gladly help with a smile.</b>
+- Speed limit for paved roads is 90 km/h
 
 #### Tips
 Bring a warm water flask, a car charger and wet wipes. Plan your meals. Bring dry foods with you and buy perishables at Kronan. Avoid restaurants. Use google maps available on your phone. All landmarks are marked with a description, reviews and picture.
