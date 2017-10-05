@@ -9,33 +9,34 @@ comments: true
 #### Assumptions
 
 - You have a GitHub account
-- You have a project on your local computer you want add to GitHub
+- You have a project on your local computer you want add to your GitHub
 - You are working on a Mac
 
 #### Steps
 
-- Create a repository on GitHub
+- <b>Create a repository on GitHub</b>
 
 <blockquote>
 To avoid errors, do not initialize the new repository with README, license, or gitignore files. You can add these files after your project has been pushed to GitHub.
 	—<a href="https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/">GitHub Help</a>
 </blockquote>
 
-- Run these commands in your terminal
+- <b>Run these commands in your terminal</b>
 
 {% highlight ruby %}
 
-git init
-git add YourProjectFolderName
-git commit -m "first commit"
+cd YourProjectFolderName
+git init 
+git add .
+git commit -m "first commit" # -m <msg> flag
 git remote add origin https://github.com/YourGithubUsername/RepositoryName.git 
-git push -u origin master
+git push -u origin master # -u[<mode>] flag (untracked files)
 
 {% endhighlight %}
 
-Note that command `git remote add origin https://github.com/YourGithubUsername/RepositoryName.git` can be exchanged for `git remote add origin git@github.com/YourGithubUsername/RepositoryName.git`.
+Note that `https://github.com/YourGithubUsername/RepositoryName.git` can be exchanged for `git@github.com/YourGithubUsername/RepositoryName.git`.
 
-Some issues might occur when your remote repository changed after the init command eg. you added a README. Try the following command `git push —force origin master`, but be cautious. This is the only time I would recommend using the `--force` command ever. 
+Some issues might occur when your remote repository changed after the init command eg. you added a README. Try the following command `git push —force origin master`, but be cautious. This is the only time I would ever recommend using the `--force` command. Find further details <a href="https://developer.atlassian.com/blog/2015/04/force-with-lease/">here</a>.
 
 <blockquote>
 Git's push --force is destructive because it unconditionally overwrites the remote repository with whatever you have locally
@@ -45,3 +46,4 @@ Git's push --force is destructive because it unconditionally overwrites the remo
 #### References 
 
 <a href="https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/">GitHub Help</a>
+<a href="https://developer.atlassian.com/blog/2015/04/force-with-lease/">Atlassian Developer</a>
