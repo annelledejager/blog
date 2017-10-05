@@ -1,0 +1,42 @@
+---
+layout: post
+title:  add project to GitHub
+date:   2017-09-22 08:37:00
+description: add an existing project to GitHub using the command line
+comments: true
+---
+
+### Assumptions
+- You have a GitHub account
+- You have a project on your local computer you want add to GitHub
+- You are working on a Mac
+
+### Steps
+- Create a repository on GitHub
+
+<blockquote>
+To avoid errors, do not initialize the new repository with README, license, or gitignore files. You can add these files after your project has been pushed to GitHub.
+	—<a href="https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/">GitHub Help</a>
+</blockquote>
+
+Run these commands in your terminal
+
+{% highlight ruby %}
+
+git init
+git add YourProjectFolderName
+git commit -m "first commit"
+git remote add origin https://github.com/YourGithubUsername/RepositoryName.git
+git push -u origin master
+
+{% endhighlight %}
+
+Some issues might occur when your remote repository changed after the init command eg. you added a README. Try the following command `git push —force origin master`, but be cautious. This is the only time I would recommend using the `--force` command ever. 
+
+<blockquote>
+Git's push --force is destructive because it unconditionally overwrites the remote repository with whatever you have locally
+	—<a href="https://developer.atlassian.com/blog/2015/04/force-with-lease/">Atlassian Developer</a>
+</blockquote>
+
+### References 
+<a href="https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/">GitHub Help</a>
