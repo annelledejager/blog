@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  add project to GitHub
-date:   2017-09-22 08:37:00
+date:   2017-10-05 08:40:00
 description: add an existing project to GitHub using the command line
 comments: true
 ---
@@ -28,12 +28,12 @@ To avoid errors, do not initialize the new repository with README, license, or g
 git init
 git add YourProjectFolderName
 git commit -m "first commit"
-git remote add origin https://github.com/YourGithubUsername/RepositoryName.git
-	or 
-git remote add origin git@github.com/YourGithubUsername/RepositoryName.git
+git remote add origin https://github.com/YourGithubUsername/RepositoryName.git 
 git push -u origin master
 
 {% endhighlight %}
+
+Note that command `git remote add origin https://github.com/YourGithubUsername/RepositoryName.git` can be exchanged for `git remote add origin git@github.com/YourGithubUsername/RepositoryName.git`.
 
 Some issues might occur when your remote repository changed after the init command eg. you added a README. Try the following command `git push —force origin master`, but be cautious. This is the only time I would recommend using the `--force` command ever. 
 
