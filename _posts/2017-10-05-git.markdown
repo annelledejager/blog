@@ -34,7 +34,7 @@ git push -u origin master # -u[<mode>] flag (untracked files)
 
 {% endhighlight %}
 
-Note that `https://github.com/YourGithubUsername/RepositoryName.git` can be exchanged for `git@github.com/YourGithubUsername/RepositoryName.git`.
+If you're using HTTPS, your command will look like `https://github.com/YourGithubUsername/RepositoryName.git`. If you're using SSH, it will look like `git@github.com:YourGithubUsername/RepositoryName.git`.
 
 Some issues might occur when your remote repository changed after the init command eg. you added a README. Try the following command `git push —force origin master`, but be cautious. This is the only time I would ever recommend using the `--force` command. Find further details <a href="https://developer.atlassian.com/blog/2015/04/force-with-lease/">here</a>.
 
