@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  why choose jekyll to setup your blog?
+title:  choosing jekyll
 date:   2017-09-20 18:37:00
-description: why i chose jekyll to setup my blog
+description: why I chose jekyll
 comments: true
 ---
 I’m not the kind of developer who researches and compares tools before picking and using them. I prefer to jump right in and discover.

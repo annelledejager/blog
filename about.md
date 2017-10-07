@@ -1,7 +1,6 @@
 ---
 layout: page
 title: about
-description: who is annelle de jager?
 permalink: /about/
 ---
 

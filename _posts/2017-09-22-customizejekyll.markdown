@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  customize your jekyll blog with disqus comments, analytics and customized theme
+title:  customize your jekyll blog
 date:   2017-09-22 08:37:00
-description: my quick start guide to customize your jekyll blog
+description: adding comments, analytics and customizing your theme
 comments: true
 ---
 #### Customizing your Jekyll theme's CSS
