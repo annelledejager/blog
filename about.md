@@ -10,7 +10,7 @@ permalink: /about/
 <br/>
 Welcome to my personal blog. 
 
-I'm Annelle, a Software Engineer raised in a small town in South Africa. I recently moved to Budapest, Hungary seeking adventure and to pursue my career. I love traveling, food and trying new things. 
+I'm Annelle, a Software Engineer raised in a small town in South Africa. I recently moved to Budapest, Hungary seeking adventure and to pursue my career. I love traveling, food, protea flowers and trying new things. 
 
 I am a girl in tech, but this blog is NOT about being a girl in tech. It's a collection of thoughts and experiences during my adventure abroad. It contains from code snippets to travel tips.
 

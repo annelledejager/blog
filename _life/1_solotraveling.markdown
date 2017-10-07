@@ -1,7 +1,7 @@
 ---
 layout: post
 title: why solo traveling is a must
-img: /blog/img/5.jpg
+img: /blog/img/proteas.jpg
 date: 2017-09-19 20:28:00
 description: motivation and tips for traveling solo 
 comments: true
