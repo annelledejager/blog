@@ -7,7 +7,7 @@ comments: true
 ---
 
 <figure>
-	<img src="/blog/img/iceland1.jpg" width="700" height="180">
+	<img src="/blog/img/iceland1.jpg" width="700" height="151">
 </figure>
 
 About a year ago the idea of traveling to Iceland came to mind. Most probably influenced by social media. When I saw cheap flights to Reykjavik, I took it as a sign. My boyfriend and I booked the flights, read a few related blogs and embarked on a great adventure. 
@@ -34,7 +34,7 @@ Route 1 or the Ring Road (Icelandic: Þjóðvegur 1 or Hringvegur) is a national
 <br/>
 
 <figure class="col one left">
-	<img src="/blog/img/iceland10.jpg" width="160" height="220">
+	<img src="/blog/img/iceland10.jpg" width="160" height="280">
 	<figcaption>
 		<b>Place of interest</b>
 	</figcaption>
@@ -45,7 +45,7 @@ I struggled to find a single website that lists all the landmarks one could see 
 <b>Tip: Check on google maps if the landmark is something you're interested in seeing. Google maps indicates all landmarks with a description, reviews and pictures.</b>
 
 <figure class="col">
-	<img src="/blog/img/icelandmap.jpg" width="700" height="450">
+	<img src="/blog/img/icelandmap.jpg" width="700" height="487">
 	<figcaption>
 		<b>My interpretation of our trip</b>
 	</figcaption>
@@ -68,7 +68,7 @@ We ate cold sausage rolls and went to bed.
 The next morning we woke up to a snowy mountain view. We made coffee and ate homemade rusks at Gluggafoss, close to where we slept the previous night. It's a small waterfall. We filled our bottles with clean, fresh water. 
 
 <figure class="col one left">
-	<img src="/blog/img/iceland19.jpg" width="180" height="200">
+	<img src="/blog/img/iceland19.jpg" width="180" height="225">
 	<figcaption>
 		<b>Skógafoss</b>
 	</figcaption>
@@ -79,7 +79,7 @@ Our first stop after breakfast was Seljalandsfoss. One can walk behind the water
 We headed to Skógafoss. You can view Skógafoss from below or from the top. You have to climb quite a few steep stairs to reach the top. It was pouring with rain by the time we reached Skógafoss. 
 
 <figure>
-	<img src="/blog/img/iceland2.jpg" width="700" height="500">
+	<img src="/blog/img/iceland2.jpg" width="700" height="525">
 	<figcaption>
 		<b>Seljavellir geothermal pool</b>
 	</figcaption>
@@ -88,7 +88,7 @@ We headed to Skógafoss. You can view Skógafoss from below or from the top. You
 By lunch time we were very cold and wet. I read somewhere about a geothermal pool closeby and we decided to head there. The thermal pool is located to the left before Skógafoss on your way to Seljavellir. ±15 minutes walk over two streams. It's free. The water is luke warm and the changing rooms are dirty. The pool is man made. 
 
 <figure class="col one right">
-	<img src="/blog/img/iceland12.jpg" width="216" height="164">
+	<img src="/blog/img/iceland12.jpg" width="216" height="162">
 	<figcaption>
 		<b>Solheimasandur plane wreck</b>
 	</figcaption>
@@ -110,14 +110,14 @@ Some things we saw on the first day includes caves, small houses built into the 
 We woke up fairly early due to the howling wind and rain pushing our RV around. Our first stop was Reynisfjara Beach aka Black Beach. We drove to Schwarzer Strand where we made some coffee. The sun started shining for the first time in two days. We were delighted.
 
 <figure class="col one">
-	<img src="/blog/img/iceland3.jpg" width="216" height="164">
+	<img src="/blog/img/iceland3.jpg" width="216" height="162">
 	<figcaption>
 		<b>Reynisfjara</b>
 	</figcaption>
 </figure> 
 
 <figure class="col two right">
-	<img src="/blog/img/iceland13.jpg" width="450" height="370">
+	<img src="/blog/img/iceland13.jpg" width="450" height="600">
 	<figcaption>
 		<b>Fjaðrárgljúfur</b>
 	</figcaption>
@@ -130,7 +130,7 @@ After that there are two waterfalls next to the road Foss a Sidu and Foss. ±5 m
 We were greeted by a glacier stretching from the top of the mountain to the bottom. We had missed it driving into the park due to the weather. We had to stop. Everyone warns you against walking on glaciers unguided. We hesitated to enter the glacier area, but it was fine to walk up to the glacier to view it. Just don't walk onto it. The trail to the glacier is called Skaftafellsjökull Trail ±1 hour. 
 
 <figure>
-	<img src="/blog/img/iceland14.jpg" width="700" height="500">
+	<img src="/blog/img/iceland14.jpg" width="700" height="700">
 	<figcaption>
 		<b>Jökulsárlón</b>
 	</figcaption>
@@ -147,7 +147,7 @@ Day 2 and 3 were active days. Our clothes were still wet from the first day's ra
 The landscape changed from sea views to dessert. We stopped at Dettifoss, the most powerful waterfall in Europe. It is off the main road and takes ±1.5 hours in total for the trip there and back. This was my favourite waterfall. If you only see one waterfall, it should be this one.
 
 <figure>
-	<img src="/blog/img/iceland17.jpg" width="700" height="500">
+	<img src="/blog/img/iceland17.jpg" width="700" height="525">
 	<figcaption>
 		<b>Driving to Mývatn</b>
 	</figcaption>
@@ -176,7 +176,7 @@ It was so cold in the morning that we decided to persevere without making breakf
 Hofsos has the most beautiful warm water designer swimming pool overlooking the ocean. It closed at 1pm when we arrived. We were disappointed, but we headed to Grettislaug nearby instead. Grettislaug is one of the most authentic geothermal pool experiences you can have in Iceland. It is ±30 minutes drive from the main road. It is privately owned and cost ±7 Euro. 
 
 <figure>
-	<img src="/blog/img/iceland11.jpg" width="700" height="500">
+	<img src="/blog/img/iceland11.jpg" width="700" height="525">
 	<figcaption>
 		<b>Grettislaug</b>
 	</figcaption>
@@ -198,7 +198,7 @@ We headed back to civilization. On the way to Reykjavik we drove through an unde
 Our first stop was the Geysir. It started raining again. The walk was minor. The Geysir only erupts after an earthquake. The Strokkur geyser, however, erupted promptly every 5-7 minutes. I loved it. We stopped at the Gullfoss waterfall. It is a bit of a walk down and we were a bit numb to seeing waterfalls by this time.
 
 <figure class="col one left">
-	<img src="/blog/img/iceland16.jpg" width="216" height="280">
+	<img src="/blog/img/iceland16.jpg" width="216" height="288">
 	<figcaption>
 		<b>Kerið</b>
 	</figcaption>
@@ -234,7 +234,7 @@ We had some time to spare and went to look at the Sun Voyager and the opera hous
 </figure>
 
 <figure class="col one">
-	<img src="/blog/img/iceland9.jpg" width="200" height="260">
+	<img src="/blog/img/iceland9.jpg" width="200" height="267">
 	<figcaption>
 		<b>Hot dog from Bæjarins Beztu Pylsur</b>
 	</figcaption>
@@ -245,7 +245,7 @@ The bus ride to the Blue Lagoon took ±50 minutes. You feel pampered from the mo
 The pool area is enchanting. The water is baby blue. The perfect temperature welcomes you. There are a mask bar, an alcohol bar, fresh water to drink, saunas, steam rooms and obviously the large pool area. We opted for the cheapest ticket which includes pool entry and a mask which is plenty. <b>Note: the beers at the pool is Gull, which we enjoyed, but was very pricey.</b>
 
 <figure>
-	<img src="/blog/img/iceland7.jpg" width="700" height="500">
+	<img src="/blog/img/iceland7.jpg" width="700" height="525">
 	<figcaption>
 		<b>Blue Lagoon</b>
 	</figcaption>
@@ -296,8 +296,8 @@ In the order they appear anti-clockwise on the Ring Road.
 
 #### Important road signs
 <div align="center">
-	<img src="/blog/img/iceland5.jpg" width="180" height="250">
-	<img src="/blog/img/iceland6.jpg" width="180" height="250">
+	<img src="/blog/img/iceland5.jpg" width="154" height="250">
+	<img src="/blog/img/iceland6.jpg" width="154" height="250">
 </div>
 
 For more road signs, see <a href="https://www.arctic.is/traffic-signs/">here</a>.
@@ -338,21 +338,21 @@ Bring a warm water flask, a car charger and wet wipes. Plan your meals. Bring dr
 <br/>
 
 <figure class="col one">
-	<img src="/blog/img/iceland18.jpg" width="140" height="164">
+	<img src="/blog/img/iceland18.jpg" width="130" height="162">
 	<figcaption>
 		<b>Day 1</b>
 	</figcaption>
 </figure>
 
 <figure class="col one">
-	<img src="/blog/img/iceland20.jpg" width="216" height="164">
+	<img src="/blog/img/iceland20.jpg" width="216" height="162">
 	<figcaption>
 		<b>Day 2</b>
 	</figcaption>
 </figure>
 
 <figure class="col one">
-	<img src="/blog/img/iceland22.jpg" width="216" height="164">
+	<img src="/blog/img/iceland22.jpg" width="216" height="162">
 	<figcaption>
 		<b>Day 3</b>
 	</figcaption>
@@ -360,21 +360,21 @@ Bring a warm water flask, a car charger and wet wipes. Plan your meals. Bring dr
 
 
 <figure class="col two">
-	<img src="/blog/img/iceland21.jpg" width="420" height="300">
+	<img src="/blog/img/iceland21.jpg" width="420" height="220">
 	<figcaption>
 		<b>Day 2</b>
 	</figcaption>
 </figure>
 
 <figure class="col one">
-	<img src="/blog/img/iceland23.jpg" width="230" height="300">
+	<img src="/blog/img/iceland23.jpg" width="230" height="288">
 	<figcaption>
 		<b>Day 3</b>
 	</figcaption>
 </figure>
 
 <figure class="col one">
-	<img src="/blog/img/iceland24.jpg" width="700" height="500">
+	<img src="/blog/img/iceland24.jpg" width="700" height="525">
 	<figcaption>
 		<b>Day 3</b>
 	</figcaption>
