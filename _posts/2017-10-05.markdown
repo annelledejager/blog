@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  add project to GitHub
+title:  how to add a project to GitHub using the command line
 date:   2017-10-05 08:40:00
-description: add an existing project to GitHub using the command line
+description: add an existing project to your Github
 comments: true
 ---
 

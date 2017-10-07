@@ -1,8 +1,8 @@
 ---
 layout: post
-title: iceland
-description: a 7 day self drive road trip
+title: a 7 day self drive road trip around Iceland
 date: 2017-10-01 11:17:00
+description: a detailed map of my 7 day self drive road trip around Iceland
 comments: true
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: solo traveling
-description: a must in my opinion
+title: why solo traveling is a must
 img: /blog/img/5.jpg
 date: 2017-09-19 20:28:00
+description: motivation and tips for traveling solo 
 comments: true
 ---
 # Traveling alone. Very few people are brave enough to try it. Those who are, reap the greatest rewards.
