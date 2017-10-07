@@ -1,9 +1,9 @@
 ---
 layout: post
-title: túró
-description: my love affair
+title: my love affair with hungarian túró
 img: /blog/img/2.jpg
 date: 2017-09-21 09:46:00
+description: an introduction to hungarian túró 
 comments: true
 ---
 
