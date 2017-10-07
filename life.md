@@ -2,7 +2,7 @@
 layout: page
 title: life
 permalink: /life/
-description: Short stories, experiences and tips from my life.
+description: short stories, experiences and tips from my life
 ---
 
 {% for story in site.life %}
@@ -17,8 +17,6 @@ description: Short stories, experiences and tips from my life.
     {% endif %}    
     <span>
         <h1>{{ story.title }}</h1>
-        <br/>
-        <p>{{ story.description }}</p>
     </span>
     </a>
 </div>

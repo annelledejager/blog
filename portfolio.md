@@ -2,6 +2,7 @@
 layout: page
 permalink: /portfolio/
 title: portfolio
+description: a collection of my "pet" projects
 ---
 
 <ul class="post-list">

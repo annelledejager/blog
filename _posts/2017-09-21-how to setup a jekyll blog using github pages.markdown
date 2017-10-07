@@ -2,7 +2,7 @@
 layout: post
 title:  how to setup a jekyll blog using github pages
 date:   2017-09-21 08:26:00
-description: my quick start guide to jekyll
+description: my quick start guide to starting a jekyll blog
 comments: true
 ---
 There are plenty of articles out there to create a blog using Jekyll. Here are the high-level steps I took to create mine. The easiest way to get a great looking blog is to use Github Jekyll themes. There are quite a few to choose from <a href="https://github.com/jekyll/jekyll/wiki/themes">here</a>. These themes are easy to customize later. 
