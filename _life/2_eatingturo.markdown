@@ -8,7 +8,7 @@ comments: true
 ---
 
 <figure class="col one right" >
-	<img src="/blog/img/turorudi.jpg" width="216" height="164">
+	<img src="/blog/img/turorudi.jpg" width="216" height="124">
 	<figcaption>
 		<b>Túró Rudi</b>
 	</figcaption>
@@ -31,7 +31,7 @@ My favourite Túró recipe is <b>Cottage cheese pasta with caramelized bacon</b>
 
 
 <figure class="col one right" >
-	<img src="/blog/img/pasta.jpg" width="220" height="250">
+	<img src="/blog/img/pasta.jpg" width="220" height="293">
 </figure>
 
 #### Ingredients

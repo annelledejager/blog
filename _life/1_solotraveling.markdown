@@ -26,7 +26,7 @@ I moved to Budapest, Hungary from South Africa earlier this year to work and tra
 	<li><b>For first time solo travelers, choose an "easy" city</b></li>
 
 		<figure class="col one right" >
-			<img src="/blog/img/solotravel2.jpg" width="216" height="164">
+			<img src="/blog/img/solotravel2.jpg" width="216" height="162">
 			<figcaption>
 				<b>Copenhagen, Denmark May 2017</b>
 			</figcaption>
@@ -54,7 +54,7 @@ I moved to Budapest, Hungary from South Africa earlier this year to work and tra
 	<li><b>Arrange an activity</b></li>	
 
 		<figure class="col one right" >
-			<img src="/blog/img/solotravel1.jpg" width="216" height="268">
+			<img src="/blog/img/solotravel1.jpg" width="216" height="270">
 			<figcaption>
 				<b>Dublin, Ireland July 2017</b>
 			</figcaption>
@@ -77,7 +77,7 @@ So I leave you with this - book that trip that you've always wanted to. It's ok 
 </figure>
 
 <figure class="col two right" style="padding-left: 15px">
-	<img src="/blog/img/solotravel4.jpg" width="460" height="355">
+	<img src="/blog/img/solotravel4.jpg" width="460" height="354">
 	<figcaption>
 		<b>Budapest, Hungary September 2017</b>
 	</figcaption>
