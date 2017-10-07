@@ -1,6 +1,6 @@
-### blog
+## blog
 annelle's blog - a collection of thoughts and experiences
 
-## Built with Jekyll and github pages
+### Built with Jekyll and github pages
 
-## Theme: https://github.com/bogoli/-folio
+### Theme: https://github.com/bogoli/-folio
