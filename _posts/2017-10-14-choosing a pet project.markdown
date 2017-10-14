@@ -31,16 +31,18 @@ reisagent {de}EN travel agent
 <b>Truth</b> A pet project is never a waste of time. You’re constantly learning and becoming more comfortable with your technology stack or learning a new technology stack. Some projects can even improve your daily routine eg. a mobile reminder app.
 
 - I have to complete my pet project before I can move onto the next pet project<br/><br/>
-<b>Truth</b>  The beauty of having a pet project is that it’s yours. You decide what to do with it. No one will judge you if you leave a pet project mid way.
+<b>Truth</b> The beauty of having a pet project is that it’s yours. You decide what to do with it. No one will judge you if you leave a pet project mid way.
 
 - It has to do something or fulfill a need<br/><br/>
-<b>Truth</b>  It does not have to do anything. If you want to practise your css, then your pet project can be to design a simple static web page with no functionality. It does not have to do ANYTHING! Pet projects are great for gaining confidence using unfamiliar frameworks eg. if you're a mobile developer with a web pet project
+<b>Truth</b> It does not have to do ANYTHING! If you want to practise your css, then your pet project can be to design a simple static web page with no functionality. 
 
 - You are a nerd for working on your computer over weekends<br/><br/>
-<b>Truth</b>  Even if this myth is true, so what if you’re a nerd. It's a new age where nerds are cool.
+<b>Truth</b> Even if this myth is true, so what if you’re a nerd. It's a new age where nerds are cool.
 
 I usually choose an unfamiliar technology stack. I tend to prefer to start a pet project from scratch, but following a tutorial or forking a github project is also a great way to get up to speed with a new technology stack. 
 
-#### I can't promote starting a pet project enough - it's yours, you own it, you have the power to commit to master.
+Pet projects are great for gaining confidence using unfamiliar frameworks eg. if you're a mobile developer with a web pet project.
+
+#### I can't promote starting a pet project enough - it's yours, you own it which gives you the power to commit to master.
 
 <br/>
