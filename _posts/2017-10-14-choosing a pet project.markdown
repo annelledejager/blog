@@ -21,7 +21,7 @@ Great! I had an idea. The last decision was to choose a framework. I chose <a hr
 <blockquote>
 reisagent {de}EN travel agent 
  
-	—<a href="http://en.bab.la/dictionary/dutch-english/reisagent">http://en.bab.la/dictionary/dutch-english/reisagent</a>
+	—<a href="http://en.bab.la/dictionary/dutch-english/reisagent">bab dictionary</a>
 </blockquote>
 
 
