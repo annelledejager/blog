@@ -12,19 +12,18 @@ Please refer to <a href="https://annelledejager.github.io/blog/2017/09/20/whyjek
 #### High-level steps
 1. Choose a Github Jekyll theme, I chose https://github.com/bogoli/-folio/
 2. Create a user account on Github if you don't already have one
-3. Create a new repository named for example blog
-4. Create a new branch in your blog repository named `gh-pages`
+3. Fork the repository
+4. Rename the repository to for example `blog`
+5. Create a new branch in your `blog` repository named `gh-pages`
 
 <blockquote>
 GitHub Pages is a static site hosting service.
 	—<a href="https://help.github.com/articles/what-is-github-pages/">Github pages</a> 
 </blockquote>
 
-5. Remove the `master` branch, you will be commiting to the `gh-pages` branch from now on
-6. Download your selected theme to your local machine
+6. Remove the `master` branch, you will be commiting to the `gh-pages` branch from now on
 7. Get familiar with the theme, the directory structure and how you can customize it. Please see below.
-8. Add the theme to your repository branch `gh-pages`
-9. Go to your blog repository settings to find your blog url. You have to be the main contributor to see the `settings`. The url will look like `{username}.github.io/blog/`
+8. Go to your `blog` repository settings to find your new blog url. Please note that you have to be the main contributor to see the `settings`. The url will look like `{username}.github.io/blog/`
 
 #### Running Jekyll locally
 1. Install Jekyll `$ gem install jekyll`
