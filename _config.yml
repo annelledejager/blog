@@ -30,3 +30,7 @@ collections:
   life:
     output: true
     permalink: /life/:path/
+  gallery:
+    output: true
+    permalink: /gallery/:path/
+
