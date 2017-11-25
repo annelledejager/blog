@@ -7,7 +7,7 @@ description: overcoming and managing your fear of public speaking
 comments: true
 ---
 
-# Public speaking feels to me like experiencing a near death experience. So to state that I have a fear of public speaking is an understatement. 
+# Public speaking feels to me like a near death experience. So to state that I have a fear of public speaking is an understatement. 
 <br/>
 
 This is not another post on "how to overcome your fear of public speaking". I don't believe that there are specific steps you can follow that will work for everyone. This post is to show fellow sufferers that they are not alone and to provide insight on how I manage the symptoms of my fear. 
