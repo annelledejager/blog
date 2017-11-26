@@ -14,9 +14,7 @@ description: a collection of happy moments
     get: 'user',
     userId: '709888312',
     accessToken: '709888312.1677ed0.643556082f774753907aefb0c411681a',
-    target: 'instafeed',
-    template: '<div class="story "><div class="thumbnail"><img src="{{image}}" /></div></div>',
-    limit: 300
+    template: '<div class="story "><div class="thumbnail"><img src="{{image}}" /></div></div>'
   });
   userFeed.run();
 </script>
