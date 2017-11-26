@@ -15,7 +15,7 @@ description: a collection of happy moments
     userId: '709888312',
     accessToken: '709888312.1677ed0.643556082f774753907aefb0c411681a',
     template: '<div class="story "><div class="thumbnail"><a href="{{link}}" target="_blank"><img src="{{image}}" /></div></div>',
-    limit: -1,
+    limit: 300,
   });
   userFeed.run();
 </script>
