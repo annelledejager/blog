@@ -4,9 +4,10 @@ permalink: /gallery/
 title: gallery
 description: a collection of happy moments
 ---
+
 <div id="instafeed">
 </div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/instafeed.js/1.4.1/instafeed.min.js"></script>
+
 <script type="text/javascript">
   var userFeed = new Instafeed({
     get: 'user',
@@ -21,4 +22,3 @@ description: a collection of happy moments
   });
   userFeed.run();
 </script>
-
