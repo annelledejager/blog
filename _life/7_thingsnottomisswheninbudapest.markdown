@@ -7,6 +7,10 @@ description: an insider guide from an expat about things not to miss when in Bud
 comments: true
 ---
 
+<figure class="aligner-center">
+	<img src="/blog/img/budapest/20.jpg" width="350" height="467">
+</figure>
+
 <blockquote>
 Budapest (Hungarian pronunciation approximates to "boo-dah-pesht") is the capital city of Hungary. With a unique, youthful atmosphere, a world-class classical music scene as well as a pulsating night life increasingly appreciated among European youth and, last but not least, an exceptionally rich offering of natural thermal baths, Budapest is one of Europe's most delightful and enjoyable cities. Due to its scenic setting and its architecture it is nicknamed "Paris of the East". 
 	—<a href="https://wikitravel.org/en/Budapest">Wikitravel</a>
@@ -16,15 +20,23 @@ I moved to Budapest, Hungary in February 2017. Since then, I've tried to explore
 
 Please keep in mind that everything I list here I've done or experienced over an eleven month period. Not to be tried within a weekend. 
 
-## Some general information
+### General information
 <br/>
 Budapest is divided by a river called the Danube. The one side is called Buda and the other is called Pest. The Buda part is hilly while the Pest side is flat. To me, Buda is more suburban while Pest is the city center where it's hustling and bustling. I lived on the Pest side for 11 months. 
+
+<figure class="col two left">
+	<img src="/blog/img/budapest/2.1.jpg" width="400" height="160">
+</figure>
 
 The main street is called Andrassy. This street is my beacon when I get lost. It's easy to find and its very recognizable. Shops in this street range from COS to Louiss Vuoitton. The oldest tram in Europe runs underneath this street. The yellow line. The train stations are decorated with tiles. It's worth walking down to one of the stations to check it out. Sisi or someone opened this tram line in blah blah blah. 
 
 The Chain bridge is the most famous bridge that leads up to the Buda castle. You're greeted at the bridge by two giant lions on each side. Apparently the designer claimed he built the most realistic lion sculpture ever made, but after the resurrection someone commented that the lions have no tongues.
 
 There are four metro lines that all get together at Deak Ference - the center of town. Deak Ference is a good meeting point. There is an outdoor mini swimming pool where young adults come together with a bottle of wine on Friday nights before heading out. You can put your feet it in. Deak Ference also leads to Vaci u. which is the most touristy area in Budapest which is to be avoided at all cost. 
+
+<figure class="aligner-center">
+	<img src="/blog/img/budapest/8.jpg" width="600" height="461">
+</figure>
 
 Hello and Bye - Szia
 Thanks - Kussi
@@ -37,68 +49,59 @@ Hungarian Forints/20 = 1 South African Rand
 
 You can buy a can of beer at a store and drink it on the street. Soproni is the beer of choice for me. It is local and its from a town called Sopron which is the most Austrian Hungarian town. Sopron is located on the boarder of Austria. Sopron chose to be Hungarian twice when provided the option.  
 
-Food and drinks not to miss
-Aperol Spritz
-
-Froccs
-
-Langos
-
-Chimney Cake
-
-Goulash
-
-Sour cherry cold soup
-
-Something with paprika
-
-turo
-
-poppy seed bread cake
-
-## The temperatures according to <a href="https://welovebudapest.com/">We Love Budapest</a> is 
+### Food and drinks not to miss
 <br/>
 
-# January
-Average weather: High 2.9°C / Low -1.6°C 
+<figure class="col two right">
+	<img src="/blog/img/budapest/4.jpg" width="480" height="480">
+</figure>
 
-# February
-Average weather: High 5.5°C / Low 0°C 
+* Froccs aka wine spritzer
 
-# March
-Average weather: High 10.6°C / Low 3.5°C 
+* Langos aka Hungarian pizza
 
-# April
-Average weather: High 16.4°C / Low 7.6°C 
+* Kürtőskalács aka chimney cake
 
-# May
-Average weather: High 21.9°C / Low 12.1°C 
+* Goulash soup
 
-# June
-Average weather: High 24.6°C / Low 15.1°C 
+* Sour cherry cold soup
 
-# July
-Average weather: High 26.7°C / Low 16.8°C 
+* Anything with paprika
 
-# August
-Average weather: High 26.6°C / Low 16.5°C 
+* <a href="https://annelledejager.github.io/blog/life/2_eatingturo/">Túró</a>
 
-# September
-Average weather: High 21.6°C / Low 12.8°C 
+* Mákos Guba aka poppy seed bread cake
 
-# October
-Average weather: High 15.4°C / Low: 7.9°C 
+<figure class="col two left">
+	<img src="/blog/img/budapest/6.jpg" width="450" height="340">
+</figure>
 
-# November
-Average weather: High 7.7°C / Low 2.9°C 
+<figure class="col one right">
+	<img src="/blog/img/budapest/19.jpg" width="255" height="340">
+</figure>
 
-# December
-Average weather: High 4°C / Low 0°C 
+<br/>
+<br/>
+### The average temperatures according to <a href="https://welovebudapest.com/en/2014/11/12/when-is-the-best-time-to-come-to-budapest-month-by-month-guide/">We Love Budapest</a> is 
+<br/>
+
+<b>January</b> - High 2.9°C / Low -1.6°C <br/>
+<b>February</b> - High 5.5°C / Low 0°C <br/>
+<b>March</b> - High 10.6°C / Low 3.5°C <br/>
+<b>April</b> - High 16.4°C / Low 7.6°C <br/>
+<b>May</b> - High 21.9°C / Low 12.1°C <br/>
+<b>June</b> - High 24.6°C / Low 15.1°C <br/>
+<b>July</b> - High 26.7°C / Low 16.8°C <br/>
+<b>August</b> - High 26.6°C / Low 16.5°C <br/>
+<b>September</b> - High 21.6°C / Low 12.8°C <br/>
+<b>October</b> - High 15.4°C / Low: 7.9°C <br/>
+<b>November</b> - High 7.7°C / Low 2.9°C <br/>
+<b>December</b> - High 4°C / Low 0°C <br/>
  
-### Scale for weekend visitors
-\* No
-** Consider it
-*** Definite do
+## Scale for weekend visitors
+\* Skip <br/>
+** Consider it <br/>
+*** Definite do <br/>
 
 * # Margaret Island
 <br/>
@@ -107,6 +110,10 @@ Rating:<br/>
 When: <br/>
 Cost:<br/>
 Ave time spent:<br/>
+
+<figure>
+	<img src="/blog/img/budapest/16.jpg" width="700" height="540">
+</figure>
 
 I use to visit Margaret Island weekly for a 5km jog around on a tar track. The island is a lush oasis in the middle of the Danube. There is a musical fountain that plays four times a day, at 10.30 am, 5, 6, 7 and 9pm. A variety of pieces are played, from Brahms to Bocelli, from Simon and Garfunkel to Vivaldi. 
 
@@ -120,6 +127,10 @@ When: <br/>
 Cost:<br/>
 Ave time spent:<br/>
 
+<figure>
+	<img src="/blog/img/budapest/15.jpg" width="700" height="525">
+</figure>
+
 Normafa is one of my favorite green spots with a panoramic view of the cities located 40 minutes by bus in the Buda Hills. Ideal for Summer jogs as well as Winter. In Winter, kids sled on the snow covered hills.
 
 * # Thermal Baths
@@ -129,6 +140,10 @@ Rating:<br/>
 When: <br/>
 Cost:<br/>
 Ave time spent:<br/>
+
+<figure>
+	<img src="/blog/img/budapest/7.jpg" width="700" height="700">
+</figure>
 
 I've only visited three baths in Budapest. Rudas, Gellert and Schentenyi. My favourite is Schentenyi. Any travel guide or language book about Budapest will have a photo of Scehtenyi on its cover. It's very touristy, but def a must do. 
 
@@ -153,6 +168,10 @@ Rating:<br/>
 When: <br/>
 Cost:<br/>
 Ave time spent:<br/>
+
+<figure>
+	<img src="/blog/img/budapest/3.jpg" width="700" height="525">
+</figure>
 
 Ruin pubs are everywhere and its not just for the tourists. My all time favourite is Fogaz which is a mystical wonder filled with surprises around each corner. 
 
@@ -184,6 +203,10 @@ When: <br/>
 Cost:<br/>
 Ave time spent:<br/>
 
+<figure>
+	<img src="/blog/img/budapest/17.jpg" width="700" height="700">
+</figure>
+
 The Citadel offers the best view of the Parliament. Take a few beers in your back pack, climb up just before sunset.
 
 * # Fisherman’s Bastion + Matthius church
@@ -213,6 +236,10 @@ Rating:<br/>
 When: <br/>
 Cost:<br/>
 Ave time spent:<br/>
+
+<figure>
+	<img src="/blog/img/budapest/18.jpg" width="700" height="933">
+</figure>
 
 The grand central market is worth visiting. Don't expect ready made food or to spend more than 15 minutes there. There are also less famous markets one can visit that sell the same produce. Produce includes raw meat, spices, fruits, vegetables etc.
 
@@ -258,6 +285,14 @@ When: <br/>
 Cost:<br/>
 Ave time spent:<br/>
 
+<figure>
+	<img src="/blog/img/budapest/9.jpg" width="700" height="525">
+</figure>
+
+<figure>
+	<img src="/blog/img/budapest/12.jpg" width="700" height="412">
+</figure>
+
 Treat yourself to a piece of cake at the most beautiful cafe's I've ever been to. Make sure to book and go after 11am when the quartet start to play.
 
 * # Parliament Building
@@ -267,6 +302,10 @@ Rating:<br/>
 When: <br/>
 Cost:<br/>
 Ave time spent:<br/>
+
+<figure>
+	<img src="/blog/img/budapest/10.jpg" width="700" height="525">
+</figure>
 
 The parliament building is beautiful from the outside with 365 towers. One can also enter the parliament. The tour lasts ± 30 minutes. It's OK to miss this tour in my opinion. 
 
@@ -278,15 +317,11 @@ When: <br/>
 Cost:<br/>
 Ave time spent:<br/>
 
+<figure>
+	<img src="/blog/img/budapest/21.jpg" width="700" height="525">
+</figure>
+
 This square is a must see. You'll likely pass it on your way to the Ice Rink or to Scenteny bath. Spend ± 10 minutes here. 
-
-* # Danube Promenade (shoes)
-<br/>
-
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
 
 * # St. Stephen’s Basilica
 <br/>
@@ -305,6 +340,11 @@ Rating:<br/>
 When: <br/>
 Cost:<br/>
 Ave time spent:<br/>
+
+<figure>
+	<img src="/blog/img/budapest/1.jpg" width="700" height="527">
+</figure>
+
 
 Try to book a show at the Opera. The shows are amazing, the hall is amazing. You'll spend a night in glamour.
 
@@ -356,14 +396,22 @@ When: <br/>
 Cost:<br/>
 Ave time spent:<br/>
 
+<figure>
+	<img src="/blog/img/budapest/14.jpg" width="700" height="933">
+</figure>
+
 Sziget is an obvious must to me when you're here. There is something for everyone. I recommend staying over for a night. It's not fun leaving the party at 2am and still having to take a train in the cold for 20 minutes. 
 
 ## Things I still want to do, but haven't
 <br/>
-- Mosque
-- <a href="http://www.mementopark.hu/press/">Memento park</a>
-- National Gallery Hungary 
 
+<figure class="col one right">
+	<img src="/blog/img/budapest/11.jpg" width="225" height="320">
+</figure>
+
+- Dohány Street Synagogue
+- <a href="http://www.mementopark.hu/press/">Memento park</a>
+- Hungarian National Gallery
 
 My favorite site on what's cool and happening in Budapest is <a href="https://welovebudapest.com/">We Love Budapest</a>. You will find anything and everything about Budapest here.
 
