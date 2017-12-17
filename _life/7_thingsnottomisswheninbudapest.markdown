@@ -8,7 +8,7 @@ comments: true
 ---
 
 <figure class="aligner-center">
-	<img src="/blog/img/budapest/20.jpg" width="350" height="467">
+	<img src="/blog/img/budapest/20.jpg" width="500" height="667">
 </figure>
 
 <blockquote>
@@ -26,6 +26,9 @@ Budapest is divided by a river called Danube. The one side is called Buda and th
 
 <figure class="col two left">
 	<img src="/blog/img/budapest/2.1.jpg" width="400" height="160">
+	<figcaption>
+		<b>Art seen at <a href="http://mucsarnok.hu/english/kunsthalle/about_us.php">Műcsarnok</a></b>
+	</figcaption>
 </figure>
 
 The main street is called Andrássy. This street is my beacon. It's easy to find and very recognizable. Shops in this street range from COS to Louis Vuitton. The continent's oldest metro runs underneath this street - the yellow line. The stations are decorated with tiles which makes it worth walking down check it out. 
@@ -63,11 +66,14 @@ You can buy a can of beer at a store and drink it on the street. Soproni is the 
 
 <figure class="col two right">
 	<img src="/blog/img/budapest/4.jpg" width="480" height="480">
+	<figcaption>
+		<b>Image from Budapest Bites by Zsofia Mautner</b>
+	</figcaption>	
 </figure>
 
 * Fröccs aka wine spritzer
 
-* Langos aka Hungarian pizza
+* Lángos aka Hungarian pizza
 
 * Kürtőskalács aka chimney cake
 
@@ -83,10 +89,16 @@ You can buy a can of beer at a store and drink it on the street. Soproni is the 
 
 <figure class="col two left">
 	<img src="/blog/img/budapest/6.jpg" width="450" height="340">
+	<figcaption>
+		<b>Image from Budapest Bites by Zsofia Mautner</b>
+	</figcaption>	
 </figure>
 
 <figure class="col one right">
 	<img src="/blog/img/budapest/19.jpg" width="255" height="340">
+	<figcaption>
+		<b>Lángos with two cheeses</b>
+	</figcaption>	
 </figure>
 
 <br/>
@@ -125,6 +137,9 @@ You can buy a can of beer at a store and drink it on the street. Soproni is the 
 
 <figure>
 	<img src="/blog/img/budapest/16.jpg" width="700" height="540">
+	<figcaption>
+		<b>Margaret Island musical fountain</b>
+	</figcaption>
 </figure>
 
 I visit Margaret Island weekly for a 5km jog around on a clearly marked tar track. The island is a lush oasis in the middle of the Danube. There is a musical fountain that plays four times a day, at 10.30 am, 5, 6, 7 and 9pm. A variety of pieces are played, from Brahms to Bocelli, from Simon and Garfunkel to Vivaldi. 
@@ -141,6 +156,9 @@ On a warm summer's day, visit Palatinus Baths on the island. They have thermal-,
 
 <figure>
 	<img src="/blog/img/budapest/15.jpg" width="700" height="525">
+	<figcaption>
+		<b>Snow at Normafa</b>
+	</figcaption>
 </figure>
 
 Normafa is one of my favorite green spots with a panoramic view of the cities. Its located 40 minutes by bus in the Buda Hills. Ideal for Summer jogs as well as Winter. In Winter, kids ride sleds down the snow covered hills.
@@ -155,6 +173,9 @@ Normafa is one of my favorite green spots with a panoramic view of the cities. I
 
 <figure>
 	<img src="/blog/img/budapest/7.jpg" width="700" height="700">
+	<figcaption>
+		<b>Széchenyi bath in Winter</b>
+	</figcaption>
 </figure>
 
 I've visited Rudas, Gellért and Széchenyi. My favorite is Széchenyi. Any travel guide or language book about Budapest will have a photo of Széchenyi on its cover. It's very touristy, but definitely a must do. 
@@ -183,6 +204,9 @@ I'm not a cyclist, but I managed to cycle from Budapest to Szentendre which is a
 
 <figure>
 	<img src="/blog/img/budapest/3.jpg" width="700" height="525">
+	<figcaption>
+		<b>David and Stuart at Szimpla Kert</b>
+	</figcaption>
 </figure>
 
 Ruin bars are everywhere. Its not just for the tourists. My all time favorite is Fogas Ház és Kert which is a mystical wonder filled with surprises around each corner. 
@@ -217,6 +241,9 @@ Pontoon is perfect for Summer days and drinks after work. Its situated beneath t
 
 <figure>
 	<img src="/blog/img/budapest/17.jpg" width="700" height="700">
+	<figcaption>
+		<b>View from Citadel</b>
+	</figcaption>
 </figure>
 
 The Citadel offers the best view of the Parliament and the rest of Budapest. Take a few Soproni's in your back pack and climb up just before sunset.
@@ -251,6 +278,9 @@ If ice skating is your thing then this is a must.
 
 <figure>
 	<img src="/blog/img/budapest/18.jpg" width="700" height="933">
+	<figcaption>
+		<b>Grand Central market</b>
+	</figcaption>
 </figure>
 
 The grand central market is worth visiting. Don't expect ready made food or to spend more than 15 minutes there. Produce includes raw meat, spices, fruits, vegetables etc.
@@ -301,10 +331,16 @@ Gozsdu courtyard, once the core of Budapest's Jewish quarter is filled with rest
 
 <figure>
 	<img src="/blog/img/budapest/9.jpg" width="700" height="525">
+	<figcaption>
+		<b>Me and my sister at New York Cafe</b>
+	</figcaption>
 </figure>
 
 <figure>
 	<img src="/blog/img/budapest/12.jpg" width="700" height="412">
+	<figcaption>
+		<b>Buffet breakfast at New York Cafe</b>
+	</figcaption>
 </figure>
 
 Treat yourself to a piece of cake at the most beautiful cafe. Make sure to make a reservation. Go after 11am when the quartet start playing.
@@ -319,6 +355,9 @@ Treat yourself to a piece of cake at the most beautiful cafe. Make sure to make 
 
 <figure>
 	<img src="/blog/img/budapest/10.jpg" width="700" height="525">
+	<figcaption>
+		<b>Inside the parliament</b>
+	</figcaption>
 </figure>
 
 The parliament building is beautiful from the outside with 365 towers. One can also enter the parliament. The tour lasts roughly 30 minutes. It's OK to miss this tour in my opinion. Purchase tickets <a href="https://www.jegymester.hu/eng/Production/480000/Parliament-visit">here</a>.
@@ -333,9 +372,12 @@ The parliament building is beautiful from the outside with 365 towers. One can a
 
 <figure>
 	<img src="/blog/img/budapest/21.jpg" width="700" height="525">
+	<figcaption>
+		<b>Heroe's square</b>
+	</figcaption>
 </figure>
 
-This square is a must see. You'll likely pass it on your way to the Ice Rink or to Széchenyi bath. 
+This square is a must see. You'll likely pass it on your way to the Ice Rink or to Széchenyi bath. It's located on the yellow metro line. 
 
 * # <a href="http://en.bazilika.biz/history-of-the-holy-right/the-story-of-the-holy-right">St. Stephen’s Basilica</a>
 <br/>
@@ -357,6 +399,9 @@ One can only become a saint if you do something miraculous. King St Stephen was 
 
 <figure>
 	<img src="/blog/img/budapest/1.jpg" width="700" height="527">
+	<figcaption>
+		<b>The Nutcracker ballet at the Opera House</b>
+	</figcaption>
 </figure>
 
 There are tours to go inside the Opera house. I recommend to rather book a show. The shows are just as amazing as the hall. 
@@ -411,6 +456,7 @@ I find these kind of activities somewhat touristy, but the dinner boat cruise is
 The folk dance is great, but not a must in my opinion. 
 
 * # <a href="https://szigetfestival.com/en/">Sziget festival</a>
+
 <br/>
 
 <b>Rating:</b> *** <br/>
@@ -420,23 +466,25 @@ The folk dance is great, but not a must in my opinion.
 
 <figure>
 	<img src="/blog/img/budapest/14.jpg" width="700" height="933">
+	<figcaption>
+		<b>Me and Mark at the entrance of Sziget festival</b>
+	</figcaption>
 </figure>
 
 Sziget is an obvious must when you're in Budapest in August. There is something for everyone. I recommend staying over for a night. 
 
-## Things I still want to do, but haven't
-<br/>
-
 <figure class="col one right">
 	<img src="/blog/img/budapest/11.jpg" width="225" height="320">
+	<figcaption>
+		<b>My street in Budapest</b>
+	</figcaption>
 </figure>
+
+## Things I still want to do, but haven't
+<br/>
 
 - Dohány Street Synagogue
 - <a href="http://www.mementopark.hu/press/">Memento park</a>
 - Hungarian National Gallery
 
 My favorite site on what's cool and happening in Budapest is <a href="https://welovebudapest.com/">We Love Budapest</a>.
-
-<b>References</b>
-- <a href="https://welovebudapest.com/">We Love Budapest</a>
-- 
