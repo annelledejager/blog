@@ -16,38 +16,43 @@ Budapest (Hungarian pronunciation approximates to "boo-dah-pesht") is the capita
 	—<a href="https://wikitravel.org/en/Budapest">Wikitravel</a>
 </blockquote>
 
-I moved to Budapest, Hungary in February 2017. Since then, I've tried to explore all the city has to offer. When friends come to visit they always ask me to provide a "things not to miss when in Budapest" list. So I've decided to put such a list together. 
+I moved to Budapest, Hungary in February 2017. Since then, I've tried to explore all the city has to offer. When friends come to visit they usually ask me to provide a "things not to miss when in Budapest" list. So I've decided to put such a list together. I lived with a Hungarian tour guide for 7 months which gave me some insight and stories which I will share in this post. 
 
 Please keep in mind that everything I list here I've done or experienced over an eleven month period. Not to be tried within a weekend. 
 
 ### General information
 <br/>
-Budapest is divided by a river called the Danube. The one side is called Buda and the other is called Pest. The Buda part is hilly while the Pest side is flat. To me, Buda is more suburban while Pest is the city center where it's hustling and bustling. I lived on the Pest side for 11 months. 
+Budapest is divided by a river called Danube. The one side is called Buda and the other Pest. The Buda side is hilly while the Pest side is flat. To me, Buda is suburban while Pest is the city center where it's hustling and bustling. I lived on the Pest side for 11 months. 
 
 <figure class="col two left">
 	<img src="/blog/img/budapest/2.1.jpg" width="400" height="160">
 </figure>
 
-The main street is called Andrassy. This street is my beacon when I get lost. It's easy to find and its very recognizable. Shops in this street range from COS to Louiss Vuoitton. The oldest tram in Europe runs underneath this street. The yellow line. The train stations are decorated with tiles. It's worth walking down to one of the stations to check it out. Sisi or someone opened this tram line in blah blah blah. 
+The main street is called Andrássy. This street is my beacon. It's easy to find and very recognizable. Shops in this street range from COS to Louis Vuitton. The continent's oldest metro runs underneath this street - the yellow line. The stations are decorated with tiles which makes it worth walking down check it out. 
 
-The Chain bridge is the most famous bridge that leads up to the Buda castle. You're greeted at the bridge by two giant lions on each side. Apparently the designer claimed he built the most realistic lion sculpture ever made, but after the resurrection someone commented that the lions have no tongues.
+Andrássy connects Deák Ferenc, the city center, and to Hero square. There are four metro lines that all get together at Deák Ferenc which makes this spot a good meeting point. There is an outdoor shallow swimming pool where people come together on warm Summer nights with a bottle of wine before heading out. You can put your feet it in - avoid swimming. Deák Ferenc also leads to Vaci u., the shopping street and which is the most touristy area in Budapest. My advise is to  avoid it at all cost. 
 
-There are four metro lines that all get together at Deak Ference - the center of town. Deak Ference is a good meeting point. There is an outdoor mini swimming pool where young adults come together with a bottle of wine on Friday nights before heading out. You can put your feet it in. Deak Ference also leads to Vaci u. which is the most touristy area in Budapest which is to be avoided at all cost. 
+Király Street is great when you're looking for bars or restaurants. It runs parallel to Andrássy.
 
 <figure class="aligner-center">
 	<img src="/blog/img/budapest/8.jpg" width="600" height="461">
 </figure>
 
-Hello and Bye - Szia
-Thanks - Kussi
-Budapest - Boe - da - pescht
+The Chain bridge is the most famous bridge in Budapest.It leads up to the Buda castle. You're greeted at the bridge by two giant lions on each side. The lions don't have tongues and apparently the sculptor forgot to create it for them. There's a myth that says that when the rumor got unfold the whole country made fun of him. He later committed suicide because of this by jumping off the bridge into the Danube.
 
-u. - square
-utca. - street
+Hello and Bye - Szia<br/>
+Thank you - Köszönöm<br/>
+Thanks - Köszi<br/>
+
+Note that Budapest is pronounced "boo-dah-pesht".
+
+út (u.) - road<br/>
+utca (ut.) - street<br/>
+tér - square<br/>
 
 Hungarian Forints/20 = 1 South African Rand
 
-You can buy a can of beer at a store and drink it on the street. Soproni is the beer of choice for me. It is local and its from a town called Sopron which is the most Austrian Hungarian town. Sopron is located on the boarder of Austria. Sopron chose to be Hungarian twice when provided the option.  
+You can buy a can of beer at a store and drink it on the street. Soproni is the beer of choice for me. It is local and its from a town called Sopron which is the most Austrian-Hungarian town. Sopron is located on the boarder of Austria. Sopron chose to be Hungarian twice when provided the option.  
 
 ### Food and drinks not to miss
 <br/>
@@ -56,7 +61,7 @@ You can buy a can of beer at a store and drink it on the street. Soproni is the 
 	<img src="/blog/img/budapest/4.jpg" width="480" height="480">
 </figure>
 
-* Froccs aka wine spritzer
+* Fröccs aka wine spritzer
 
 * Langos aka Hungarian pizza
 
@@ -99,191 +104,196 @@ You can buy a can of beer at a store and drink it on the street. Soproni is the 
 <b>December</b> - High 4°C / Low 0°C <br/>
  
 ## Scale for weekend visitors
+<br/>
+<b>
 \* Skip <br/>
 ** Consider it <br/>
 *** Definite do <br/>
+</b>
 
 * # Margaret Island
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> ** <br/> 
+<b>When:</b> All year<br/>
+<b>Cost:</b> Free <br/>
+<b>Ave time spent:</b> 1 hour<br/>
 
 <figure>
 	<img src="/blog/img/budapest/16.jpg" width="700" height="540">
 </figure>
 
-I use to visit Margaret Island weekly for a 5km jog around on a tar track. The island is a lush oasis in the middle of the Danube. There is a musical fountain that plays four times a day, at 10.30 am, 5, 6, 7 and 9pm. A variety of pieces are played, from Brahms to Bocelli, from Simon and Garfunkel to Vivaldi. 
+I visit Margaret Island weekly for a 5km jog around on a clearly marked tar track. The island is a lush oasis in the middle of the Danube. There is a musical fountain that plays four times a day, at 10.30 am, 5, 6, 7 and 9pm. A variety of pieces are played, from Brahms to Bocelli, from Simon and Garfunkel to Vivaldi. 
 
-On a warm summer's day, visit Palatinus Baths. They have thermal-, adventure pools and water slides. 
+On a warm summer's day, visit Palatinus Baths on the island. They have thermal-, adventure pools and water slides. 
 
 * # Normafa 
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> ** to *** <br/>
+<b>When:</b> All year <br/>
+<b>Cost:</b> Free except travel <br/>
+<b>Ave time spent:</b> 1-3 hours <br/>
 
 <figure>
 	<img src="/blog/img/budapest/15.jpg" width="700" height="525">
 </figure>
 
-Normafa is one of my favorite green spots with a panoramic view of the cities located 40 minutes by bus in the Buda Hills. Ideal for Summer jogs as well as Winter. In Winter, kids sled on the snow covered hills.
+Normafa is one of my favorite green spots with a panoramic view of the cities. Its located 40 minutes by bus in the Buda Hills. Ideal for Summer jogs as well as Winter. In Winter, kids ride sleds down the snow covered hills.
 
 * # Thermal Baths
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> *** <br/>
+<b>When:</b> All year, but Winter is best <br/>
+<b>Cost:</b> 5000-6000 Huf<br/>
+<b>Ave time spent:</b> 1-3 hours <br/>
 
 <figure>
 	<img src="/blog/img/budapest/7.jpg" width="700" height="700">
 </figure>
 
-I've only visited three baths in Budapest. Rudas, Gellert and Schentenyi. My favourite is Schentenyi. Any travel guide or language book about Budapest will have a photo of Scehtenyi on its cover. It's very touristy, but def a must do. 
+I've visited Rudas, Gellért and Széchenyi. My favorite is Széchenyi. Any travel guide or language book about Budapest will have a photo of Széchenyi on its cover. It's very touristy, but definitely a must do. 
 
-Gellert is located in a beautiful old hotel. Most of the bath is inside. Posch comes to mind. 
+Gellért is located in a beautiful old hotel. Most of the baths are inside. 
 
-Rudas has an old and new section. The new section includes a roof top small pool that overlooks the Danube. 
+Rudas has an old and new section. The new section includes a roof top thermal pool that overlooks the Danube. 
 
-* # Cycling
+* # Cycling to Szentendre
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> ** <br/>
+<b>When:</b> Summer <br/>
+<b>Cost:</b> Free, except for bicycle rentals <br/>
+<b>Ave time spent:</b> 6-8 hour <br/>
 
-I'm not a cyclist at all, but I managed to cycle from Budapest to Szetendre and loved it. It's a perfect day trip. The town is cute, filled with lots of restaurants. If cycling is not your thing, you can reach Szetendre by train which takes about an half hour. 
+I'm not a cyclist, but I managed to cycle from Budapest to Szentendre which is a small town outside of Budapest. It's a perfect day trip. If cycling is not your thing, you can reach Szentendre by train which takes about an half hour. 
 
 * # Ruin Pubs
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> *** <br/>
+<b>When:</b> All year, but Summer is best <br/>
+<b>Cost:</b> Not applicable <br/>
+<b>Ave time spent:</b> 1-6 hours <br/>
 
 <figure>
 	<img src="/blog/img/budapest/3.jpg" width="700" height="525">
 </figure>
 
-Ruin pubs are everywhere and its not just for the tourists. My all time favourite is Fogaz which is a mystical wonder filled with surprises around each corner. 
+Ruin pubs are everywhere. Its not just for the tourists. My all time favorite is Fogas Ház és Kert which is a mystical wonder filled with surprises around each corner. 
 
-The classic Szimpla is definitely a must. I trip to Budapest without visiting Szimpla would be a sin. They also have a great caravan food court next door which have serve best burgers in town at Zing. 
+The classic Szimpla Kert is not to be missed. I trip to Budapest without visiting Szimpla would be a sin. They also have a great caravan food court next door which serves best burgers in town. 
 
-Our local hang is Ellato Kert & Taqueria. Great if you want a great vibe and an affordable beer come summer or winter. 
+Our local bar is Ellato Kert & Taqueria. Its perfect if you want a great vibe and an affordable beer.
 
 * # Outdoor garden pubs
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> *** <br/>
+<b>When:</b> Summer <br/>
+<b>Cost:</b> Not applicable <br/>
+<b>Ave time spent:</b> 1-6 hours<br/>
 
-During summer, outdoor gardens start appearing from nowhere. Empty parking lots become lively scenes. My favorites is Mika Kert. 
+Outdoor garden pubs start appearing everywhere in Summer. Empty parking lots become lively scenes. My favorites is Mika Kert. 
 
-Kertem is worth a visit. It's slightly out of way, but once you're there its boast a scene of bicycles, dogs, live music and laughter. 
+Kertem is worth a visit as well. It's slightly out of the way, but once you're there it boast a scene of bicycles, dogs, live music and laughter. 
 
-360 is a rooftop bar, perfect in Summer. Slightly pricey.
+360 Bar is a rooftop bar which perfect in Summer. They serve the best cocktails, but are slightly pricey with an entrance fee.
 
-Pontoon is perfect for Summer days and drinks after work. 
+Pontoon is perfect for Summer days and drinks after work. Its situated beneath the Chain bridge.
 
 * # Citadel + Liberty Statue
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> *** <br/>
+<b>When:</b> All year<br/>
+<b>Cost:</b> Free<br/>
+<b>Ave time spent:</b> 2 hours<br/>
 
 <figure>
 	<img src="/blog/img/budapest/17.jpg" width="700" height="700">
 </figure>
 
-The Citadel offers the best view of the Parliament. Take a few beers in your back pack, climb up just before sunset.
+The Citadel offers the best view of the Parliament and the rest of Budapest. Take a few Soproni's in your back pack and climb up just before sunset.
 
-* # Fisherman’s Bastion + Matthius church
+* # Fisherman’s Bastion + Matthias church
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> ** <br/>
+<b>When:</b> All year <br/>
+<b>Cost:</b> Free except if you want to enter the Matthias church<br/>
+<b>Ave time spent:</b><br/>
 
-The Fisherman's Bastion was originally designed for aesthetics. Worth a visit. Entering Matthius church is a must. The moorish inside style sets this church apart.
+The Fisherman's Bastion was originally designed for aesthetics. It frames Matthias church. Entering Matthias church is a must. The Moorish inside style sets this church apart.
 
 * # Ice skating
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> ** <br/>
+<b>When:</b> Winter <br/>
+<b>Cost:</b> 5000 HUF <br/>
+<b>Ave time spent:</b> 2 hours <br/>
 
-If ice skating is your thing, then this is a must. 
+If ice skating is your thing then this is a must. 
 
 * # Markets
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> *** <br/>
+<b>When:</b> Winter <br/>
+<b>Cost:</b> Free <br/>
+<b>Ave time spent:</b> 1 hour<br/>
 
 <figure>
 	<img src="/blog/img/budapest/18.jpg" width="700" height="933">
 </figure>
 
-The grand central market is worth visiting. Don't expect ready made food or to spend more than 15 minutes there. There are also less famous markets one can visit that sell the same produce. Produce includes raw meat, spices, fruits, vegetables etc.
+The grand central market is worth visiting. Don't expect ready made food or to spend more than 15 minutes there. Produce includes raw meat, spices, fruits, vegetables etc.
 
 Christmas markets open end November and are located in different areas around town. They're cheery and wonderful with lights and music. Drink a mulled wine and eat a chimney cake. 
 
 * # Restaurants
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> *** <br/>
+<b>When:</b> All year <br/>
+<b>Cost:</b> Not applicable <br/>
+<b>Ave time spent:</b> 1-2 hour<br/>
 
-Frici Papa is a must. It's local, cheap, cozy. Try the poppy seed bread pudding, but share it, its huge. 
+<a href="http://fricipapa.hu/">Frici Papa</a> is a must. It's local, cheap and cozy. Try the poppy seed bread pudding, but share it, the portion is huge. 
 
-Cupakos has the best meat dishes at a good price.
+<a href="http://cupakos.hu/">Cupakos<a> has the best local meat dishes at a good price.
 
-Kiosk has the best vibe. Try the sliders, they're delicious. Visit in summer. 
+<a href="http://www.kiosk-budapest.hu/">Kiosk</a> has the best vibe. Try the sliders, they're delicious. Visit in summer.
+
+Gozsdu courtyard, once the core of Budapest's Jewish quarter is filled with restaurants and bars. Very touristy. 
 
 * # Cinema
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> ** <br/>
+<b>When:</b> All year <br/>
+<b>Cost:</b> <br/>
+<b>Ave time spent:</b> 3 hours<br/>
 
-Moldi Tozi is a great cinema that shows movies in their original language. It is also a great bar. Eating popcorn and drinking beer while watching your favourite movie in your chosen language...great!
+<a href="http://toldimozi.hu/">Toldi Mozi</a> is a vibey cinema/bar that shows movies in their original language. Eating popcorn and drinking beer while watching your favorite movie in your chosen language...great!
 
-* # House of Terror
+* # <a href="http://www.terrorhaza.hu/hu">House of Terror</a>
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> *** <br/>
+<b>When:</b> All year <br/>
+<b>Cost:</b> <br/>
+<b>Ave time spent:</b> 3 hours<br/>
 
-* # New York Cafe
+* # <a href="http://www.newyorkcafe.hu/">New York Cafe</a>
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> *** <br/>
+<b>When:</b> All year<br/>
+<b>Cost:</b> <br/>
+<b>Ave time spent:</b> 1-3 hours<br/>
 
 <figure>
 	<img src="/blog/img/budapest/9.jpg" width="700" height="525">
@@ -293,114 +303,122 @@ Ave time spent:<br/>
 	<img src="/blog/img/budapest/12.jpg" width="700" height="412">
 </figure>
 
-Treat yourself to a piece of cake at the most beautiful cafe's I've ever been to. Make sure to book and go after 11am when the quartet start to play.
+Treat yourself to a piece of cake at the most beautiful cafe. Make sure to make a reservation. Go after 11am when the quartet start playing.
 
-* # Parliament Building
+* # Hungarian Parliament Building
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> * <br/>
+<b>When:</b> All year<br/>
+<b>Cost:</b> <br/>
+<b>Ave time spent:</b> 30 minutes<br/>
 
 <figure>
 	<img src="/blog/img/budapest/10.jpg" width="700" height="525">
 </figure>
 
-The parliament building is beautiful from the outside with 365 towers. One can also enter the parliament. The tour lasts ± 30 minutes. It's OK to miss this tour in my opinion. 
+The parliament building is beautiful from the outside with 365 towers. One can also enter the parliament. The tour lasts roughly 30 minutes. It's OK to miss this tour in my opinion. 
 
 * # Heroes’ Square
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> ** <br/>
+<b>When:</b> All year<br/>
+<b>Cost:</b> Free<br/>
+<b>Ave time spent:</b> 10-30 minutes<br/>
 
 <figure>
 	<img src="/blog/img/budapest/21.jpg" width="700" height="525">
 </figure>
 
-This square is a must see. You'll likely pass it on your way to the Ice Rink or to Scenteny bath. Spend ± 10 minutes here. 
+This square is a must see. You'll likely pass it on your way to the Ice Rink or to Széchenyi bath. 
 
-* # St. Stephen’s Basilica
+* # <a href="http://en.bazilika.biz/history-of-the-holy-right/the-story-of-the-holy-right">St. Stephen’s Basilica</a>
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> ** <br/>
+<b>When:</b> All year<br/>
+<b>Cost:</b> Free<br/>
+<b>Ave time spent:</b> 10-30 minutes<br/>
 
-One can only become a saint if you do something magical. St stephen wasn't a saint, but when he died and they dug him up again, he's hand was perfectly preserved. This to the people of that time was a marical and he therefore became a saint. This can be explained today by science. The hand is still located inside the basilica. Its free to go inside. 
+One can only become a saint if you do something miraculous. King St Stephen was not a saint during his time. After his death, his burial was removed. During this removal they discovered that his right hand was perfectly preserved. The people of that time believed it had miraculous power. The king therefore became a saint. Scientists today can explain the phenomenon. The hand is still located inside the basilica. Its free to go inside. 
 
 * # Hungarian State Opera House
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> *** <br/>
+<b>When:</b> All year<br/>
+<b>Cost:</b> <br/>
+<b>Ave time spent:</b> 3 hours <br/>
 
 <figure>
 	<img src="/blog/img/budapest/1.jpg" width="700" height="527">
 </figure>
 
-
-Try to book a show at the Opera. The shows are amazing, the hall is amazing. You'll spend a night in glamour.
+There are tours to go inside the Opera house. I recommend to rather book a show. The shows are just as amazing as the hall. 
 
 * # Buda Castle Hill Funicular
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> * <br/>
+<b>When:</b> All year<br/>
+<b>Cost:</b> <br/>
+<b>Ave time spent:</b> 30 minutes<br/>
 
-The funicular in my opinion is slighly touristy and not a must in my opinion. 
+The funicular in my opinion is slightly touristy and not a must in my opinion. 
 
 * # Gellért Hill Cave
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> ** <br/>
+<b>When:</b> All year <br/>
+<b>Cost:</b> <br/>
+<b>Ave time spent:</b> 2 hours<br/>
 
-This is a fascinating church cave filled with history. I've never seen anything like it. The saint was placed into a barrel with nails and rolled down the hill. Worth a visit if you have more than a weekend.
+This is a fascinating church cave filled with history. I've never seen anything like it. Its named after a saint who was placed into a spiked barrel and rolled down the hill. Worth a visit if you have more than a weekend.
 
 * # Wine tasting
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> *** <br/>
+<b>When:</b> All year<br/>
+<b>Cost:</b> <br/>
+<b>Ave time spent:</b> 2 hours<br/>
 
-I started to learn how to drink Hungarian wine. They're most famous for their sweet wine from Tokai. They have plenty of other famous wine regions e.g Eger. Eger has a castle that the Turks attacked. The soldiers from Eger was completely out numbered so the commander decided to let his men die happy. He ordered all the wine from the sellers to be fetched and he invited all the soldiers to drink. The Turks, being from a Moslems, did not know what wine is so when the Hungarians started fighting the next morning with drunken bodies and stained red teeth, the Turks recalled the scene as bulls blood. Try the bulls blood at <a href="http://tastingtablebudapest.com/">Tasting Table</a>.
+Hungary is famous for their sweet wine from Tokaj. They have plenty of other famous wine regions e.g Eger. 
+
+<blockquote>
+The name of the wine originates from an event that happened in Eger, the town, and region where the wine is produced, in the 16th century. Upon a Turkish siege of the city, the Hungarian troops (under command of the favorite hero of Eger today, Istvan Dobo), were fed local food and wine, including the red wine from nearby vineyards. Rumor spread that this dark red wine was mixed with bulls' blood to give the 2,000 soldiers strength. Indeed, this small band of defenders successfully fought back a much larger Turkish army, and Eger was temporarily saved from sacking.
+	—<a href="https://www.tripsavvy.com/bulls-blood-of-hungary-1501569">Bull's Blood of Hungary</a>
+</blockquote>
+
+Try the bulls blood at <a href="http://tastingtablebudapest.com/">Tasting Table</a>.
 
 * # Dinner boat cruise + Folk dance
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> ** <br/>
+<b>When:</b> All year <br/>
+<b>Cost:</b> <br/>
+<b>Ave time spent:</b> 2-3 hours<br/>
 
-I find these kind of activities somewhat touristy, but the dinner boat cruise is definitely worth it. You get live music, a welcome drink, boat cruise and buffet dinner with all there is to taste in Budapest. The folk dance is great, but not a must in my opinion. 
+I find these kind of activities somewhat touristy, but the dinner boat cruise is definitely worth it. You get live music, a welcome drink, boat cruise and buffet dinner with all there is to taste in Budapest. 
 
-* # Sziget festival
+The folk dance is great, but not a must in my opinion. 
+
+* # <a href="https://szigetfestival.com/en/">Sziget festival</a>
 <br/>
 
-Rating:<br/>
-When: <br/>
-Cost:<br/>
-Ave time spent:<br/>
+<b>Rating:</b> *** <br/>
+<b>When:</b> August <br/>
+<b>Cost:</b> <br/>
+<b>Ave time spent:</b> 1-2 days<br/>
 
 <figure>
 	<img src="/blog/img/budapest/14.jpg" width="700" height="933">
 </figure>
 
-Sziget is an obvious must to me when you're here. There is something for everyone. I recommend staying over for a night. It's not fun leaving the party at 2am and still having to take a train in the cold for 20 minutes. 
+Sziget is an obvious must when you're in Budapest in August. There is something for everyone. I recommend staying over for a night. 
 
 ## Things I still want to do, but haven't
 <br/>
@@ -413,7 +431,7 @@ Sziget is an obvious must to me when you're here. There is something for everyon
 - <a href="http://www.mementopark.hu/press/">Memento park</a>
 - Hungarian National Gallery
 
-My favorite site on what's cool and happening in Budapest is <a href="https://welovebudapest.com/">We Love Budapest</a>. You will find anything and everything about Budapest here.
+My favorite site on what's cool and happening in Budapest is <a href="https://welovebudapest.com/">We Love Budapest</a>.
 
 References
 - <a href="https://welovebudapest.com/">We Love Budapest</a>
