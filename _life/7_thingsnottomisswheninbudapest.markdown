@@ -18,7 +18,7 @@ Budapest (Hungarian pronunciation approximates to "boo-dah-pesht") is the capita
 
 I moved to Budapest, Hungary in February 2017. Since then, I've tried to explore all the city has to offer. When friends come to visit they usually ask me to provide a "things not to miss when in Budapest" list. So I've decided to put such a list together. I lived with a Hungarian tour guide for 7 months which gave me some insight and stories which I will share in this post. 
 
-Please keep in mind that everything I list here I've done or experienced over an eleven month period. Not to be tried within a weekend. 
+Please keep in mind that everything I list here I've done or experienced over an 11 month period. Not to be tried within a weekend. 
 
 ### General information
 <br/>
