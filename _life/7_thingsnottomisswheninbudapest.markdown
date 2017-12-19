@@ -31,9 +31,9 @@ Budapest is divided by a river called Danube. The one side is called Buda and th
 	</figcaption>
 </figure>
 
-The main street is called Andrássy. This street is my beacon. It's easy to find and very recognizable. Shops in this street range from COS to Louis Vuitton. The continent's oldest metro runs underneath this street - the yellow line. The stations are decorated with tiles which makes it worth walking down check it out. 
+The main street is called Andrássy. This street is my beacon. It's easy to find and very recognizable. Shops in this street range from COS to Louis Vuitton. The continent's oldest metro runs underneath this street - the yellow line. The stations are decorated with tiles which makes it worth walking down to check it out. 
 
-Andrássy connects Deák Ferenc, the city center, and to Hero square. There are four metro lines that all get together at Deák Ferenc which makes this spot a good meeting point. There is an outdoor shallow swimming pool where people come together on warm Summer nights with a bottle of wine before heading out. You can put your feet it in - avoid swimming. Deák Ferenc also leads to Vaci u., the shopping street and which is the most touristy area in Budapest. My advise is to  avoid it at all cost. 
+Andrássy connects Deák Ferenc, the city center, and Heroes' square. There are four metro lines that all meet at Deák Ferenc which makes this spot a good meeting point. There is an outdoor shallow swimming pool where people come together on warm Summer nights with a bottle of wine before heading out. You can put your feet it in - avoid swimming. Deák Ferenc also leads to Vaci u., the main shopping street. Shops include Zara, Mango etc. This is the most touristy area in Budapest. My advise is to  avoid it at all cost. 
 
 Király Street is great when you're looking for bars or restaurants. It runs parallel to Andrássy.
 
@@ -41,7 +41,7 @@ Király Street is great when you're looking for bars or restaurants. It runs par
 	<img src="/blog/img/budapest/8.jpg" width="600" height="461">
 </figure>
 
-The Chain bridge is the most famous bridge in Budapest.It leads up to the Buda castle. You're greeted at the bridge by two giant lions on each side. The lions don't have tongues and apparently the sculptor forgot to create it for them. There's a myth that says that when the rumor got unfold the whole country made fun of him. He later committed suicide because of this by jumping off the bridge into the Danube.
+The Chain bridge is the most famous bridge in Budapest. It leads up to the Buda castle. You're greeted at the bridge by two giant lions on each side. The lions don't have tongues and apparently the sculptor forgot to create it for them. There's a myth that says that when the rumor got unfold that the lions have no tongues the whole country made fun of him. He later committed suicide because of this by jumping off the bridge into the Danube.
 
 ### Language
 <br/>
@@ -62,7 +62,7 @@ Hungary uses the Hungarian Forints. Hungarian Forints/20 = 1 South African Rand
 ### Food and drinks not to miss
 <br/>
 
-You can buy a can of beer at a store and drink it on the street. Soproni is the beer of choice for me. It is local and its from a town called Sopron which is the most Austrian-Hungarian town. Sopron is located on the boarder of Austria. Sopron chose to be Hungarian twice when provided the option.  
+You can buy a can of beer at a store and drink it on the street. Soproni is the beer of choice for me. It is local and its from a town called Sopron which is the most Austrian town in Hungary. Sopron is located on the boarder of Austria. Sopron chose to be Hungarian twice when provided the option.  
 
 <figure class="col two right">
 	<img src="/blog/img/budapest/4.jpg" width="480" height="480">
@@ -101,6 +101,8 @@ You can buy a can of beer at a store and drink it on the street. Soproni is the 
 	</figcaption>	
 </figure>
 
+<br/>
+<br/>
 <br/>
 <br/>
 ### The average temperatures according to <a href="https://welovebudapest.com/en/2014/11/12/when-is-the-best-time-to-come-to-budapest-month-by-month-guide/">We Love Budapest</a> is 
