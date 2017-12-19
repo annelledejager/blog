@@ -144,14 +144,14 @@ You can buy a can of beer at a store and drink it on the street. Soproni is the 
 	</figcaption>
 </figure>
 
-I visit Margaret Island weekly for a 5km jog around on a clearly marked tar track. The island is a lush oasis in the middle of the Danube. There is a musical fountain that plays four times a day, at 10.30 am, 5, 6, 7 and 9pm. A variety of pieces are played, from Brahms to Bocelli, from Simon and Garfunkel to Vivaldi. 
+I visit Margaret Island weekly for a 5 km jog around the island on a clearly marked tar track. The island is a lush oasis in the middle of the Danube. There is a musical fountain that plays four times a day, at 10.30 am, 5, 6, 7 and 9 pm. A variety of pieces are played, from Brahms to Bocelli, from Simon and Garfunkel to Vivaldi. 
 
 On a warm summer's day, visit Palatinus Baths on the island. They have thermal-, adventure pools and water slides. 
 
 * # <a href="http://www.normafa.hu/eng/index.html">Normafa</a>
 <br/>
 
-<b>Rating:</b> ** to *** <br/>
+<b>Rating:</b> ** <br/>
 <b>When:</b> All year <br/>
 <b>Cost:</b> Free except for transport <br/>
 <b>Ave time spent:</b> 1-3 hours <br/>
@@ -163,7 +163,7 @@ On a warm summer's day, visit Palatinus Baths on the island. They have thermal-,
 	</figcaption>
 </figure>
 
-Normafa is one of my favorite green spots with a panoramic view of the cities. Its located 40 minutes by bus in the Buda Hills. Ideal for Summer jogs as well as Winter. In Winter, kids ride sleds down the snow covered hills.
+Normafa is one of my favorite green spots with a panoramic view of the city. It's located 40 minutes by bus in the Buda Hills. Ideal for Summer jogs. In Winter, kids ride sleds down the snow covered hills.
 
 * # Thermal Baths
 <br/>
@@ -180,9 +180,9 @@ Normafa is one of my favorite green spots with a panoramic view of the cities. I
 	</figcaption>
 </figure>
 
-I've visited Rudas, Gellért and Széchenyi. My favorite is Széchenyi. Any travel guide or language book about Budapest will have a photo of Széchenyi on its cover. It's very touristy, but definitely a must do. 
+I've visited Rudas, Gellért and Széchenyi. My favorite is Széchenyi. Any travel guide or language book about Budapest will have a photo of Széchenyi on its cover and its easy to see why. It's very touristy, but definitely a must do. 
 
-Gellért is located in a beautiful old hotel. Most of the baths are inside. 
+Gellért is located in a beautiful old hotel. Most of the baths are indoors. 
 
 Rudas has an old and new section. The new section includes a roof top thermal pool that overlooks the Danube. 
 
@@ -191,10 +191,10 @@ Rudas has an old and new section. The new section includes a roof top thermal po
 
 <b>Rating:</b> ** <br/>
 <b>When:</b> Summer <br/>
-<b>Cost:</b> Free, except for bicycle rentals <br/>
+<b>Cost:</b> Free, except for bicycle rental <br/>
 <b>Ave time spent:</b> 6-8 hour <br/>
 
-I'm not a cyclist, but I managed to cycle from Budapest to Szentendre which is a small town outside of Budapest. It's a perfect day trip. If cycling is not your thing, you can reach Szentendre by train which takes about an half hour. 
+I'm not a cyclist, but I managed to cycle from Budapest to Szentendre and loved it. Szentendre is a small, cute town roughly 25 km outside Budapest. It's a perfect day trip. If cycling is not your thing, you can reach Szentendre by train which takes about half hour. 
 
 * # Ruin bars
 <br/>
@@ -211,7 +211,7 @@ I'm not a cyclist, but I managed to cycle from Budapest to Szentendre which is a
 	</figcaption>
 </figure>
 
-Ruin bars are everywhere. Its not just for the tourists. My all time favorite is Fogas Ház és Kert which is a mystical wonder filled with surprises around each corner. 
+Ruin bars are everywhere. It's not just for the tourists. My all time favorite is Fogas Ház és Kert which is a mystical wonder filled with surprises around each corner. 
 
 The classic Szimpla Kert is not to be missed. I trip to Budapest without visiting Szimpla would be a sin. They also have a great caravan food court next door which serves best burgers in town. 
 
