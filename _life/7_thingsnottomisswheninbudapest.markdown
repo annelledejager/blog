@@ -211,11 +211,11 @@ I'm not a cyclist, but I managed to cycle from Budapest to Szentendre and loved 
 	</figcaption>
 </figure>
 
-Ruin bars are everywhere. It's not just for the tourists. My all time favorite is Fogas Ház és Kert which is a mystical wonder filled with surprises around each corner. 
+Ruin bars are everywhere. My all time favorite is Fogas Ház és Kert which is a mystical wonder filled with surprises around each corner. 
 
-The classic Szimpla Kert is not to be missed. I trip to Budapest without visiting Szimpla would be a sin. They also have a great caravan food court next door which serves best burgers in town. 
+The classic Szimpla Kert is not to be missed. A trip to Budapest without visiting Szimpla would be a sin. Be sure to visit the food truck next door, Street Food Karaván, for the best burgers in town. 
 
-Our local bar is Ellato Kert & Taqueria. Its perfect if you want a great vibe and an affordable beer.
+Our local bar is Ellato Kert & Taqueria. It's perfect if you want a great vibe and an affordable beer.
 
 * # Outdoor garden bars
 <br/>
@@ -229,9 +229,9 @@ Outdoor garden bars start appearing everywhere in Summer. Empty parking lots bec
 
 Kertem is worth a visit as well. It's slightly out of the way, but once you're there it boast a scene of bicycles, dogs, live music and laughter. 
 
-360 Bar is a rooftop bar which perfect in Summer. They serve the best cocktails, but are slightly pricey with an entrance fee.
+360 Bar is a rooftop bar which is perfect in Summer. The views are breathtaking. They serve the best cocktails, but are slightly pricey. 360 Bar has an entrance fee.
 
-Pontoon is perfect for Summer days and drinks after work. Its situated beneath the Chain bridge.
+Pontoon is perfect for drinks after work on a hot Summer's day. It's situated beneath the Chain bridge.
 
 * # Citadel + Liberty Statue
 <br/>
@@ -248,7 +248,7 @@ Pontoon is perfect for Summer days and drinks after work. Its situated beneath t
 	</figcaption>
 </figure>
 
-The Citadel offers the best view of the Parliament and the rest of Budapest. Take a few Soproni's in your back pack and climb up just before sunset.
+The Citadel offers the best view of the Parliament and the rest of Budapest. Pack a few Soproni's in your backpack and climb up just before sunset.
 
 * # Fisherman’s Bastion + Matthias church
 <br/>
@@ -256,9 +256,9 @@ The Citadel offers the best view of the Parliament and the rest of Budapest. Tak
 <b>Rating:</b> ** <br/>
 <b>When:</b> All year <br/>
 <b>Cost:</b> Free except if you want to enter the Matthias church for 1500 HUF<br/>
-<b>Ave time spent:</b><br/>
+<b>Ave time spent:</b> 1 hour<br/>
 
-The Fisherman's Bastion was originally designed for aesthetics. It frames Matthias church. Entering Matthias church is a must. The Moorish inside style sets this church apart.
+The Fisherman's Bastion was originally designed for aesthetics. It frames Matthias church. Entering Matthias church is a must. The Moorish interior sets this church apart.
 
 * # <a href="https://www.mujegpalya.hu/en">Ice skating</a>
 <br/>
@@ -287,7 +287,7 @@ If ice skating is your thing then this is a must.
 
 The grand central market is worth visiting. Don't expect ready made food or to spend more than 15 minutes there. Produce includes raw meat, spices, fruits, vegetables etc.
 
-Christmas markets open end November and are located in different areas around town. They're cheery and wonderful with lights and music. Drink a mulled wine and eat a chimney cake. 
+Christmas markets open end November and are located in different areas around town. They're cheery and wonderful with lights and music. Drink a mulled wine and enjoy chimney cake. 
 
 * # Restaurants
 <br/>
@@ -299,11 +299,11 @@ Christmas markets open end November and are located in different areas around to
 
 <a href="http://fricipapa.hu/">Frici Papa</a> is a must. It's local, cheap and cozy. Try the poppy seed bread pudding, but share it, the portion is huge. 
 
-<a href="http://cupakos.hu/">Cupakos<a> has the best local meat dishes at a good price.
+<a href="http://cupakos.hu/">Cupakos</a> has the best local meat dishes at a good price.
 
-<a href="http://www.kiosk-budapest.hu/">Kiosk</a> has the best vibe. Try the sliders, they're delicious. Visit in summer.
+<a href="http://www.kiosk-budapest.hu/">Kiosk</a> has the best vibe. Try the sliders.
 
-Gozsdu courtyard, once the core of Budapest's Jewish quarter is filled with restaurants and bars. Very touristy. 
+Gozsdu courtyard - once the core of Budapest's Jewish quarter is filled with restaurants and bars. Very touristy and pricey. 
 
 * # Cinema (English)
 <br/>
@@ -320,7 +320,7 @@ Gozsdu courtyard, once the core of Budapest's Jewish quarter is filled with rest
 
 <b>Rating:</b> *** <br/>
 <b>When:</b> All year <br/>
-<b>Cost:</b> 2000 HUF and you can't purchase tickets online <br/>
+<b>Cost:</b> 2000 HUF, tickets not sold online <br/>
 <b>Ave time spent:</b> 3 hours<br/>
 
 * # <a href="http://www.newyorkcafe.hu/">New York Cafe</a>
@@ -345,7 +345,7 @@ Gozsdu courtyard, once the core of Budapest's Jewish quarter is filled with rest
 	</figcaption>
 </figure>
 
-Treat yourself to a piece of cake at the most beautiful cafe. Make sure to make a reservation. Go after 11am when the quartet start playing.
+Treat yourself to a piece of cake at the most beautiful cafe. Make sure to make a reservation. Go after 11 am when the quartet starts to play.
 
 * # Hungarian Parliament Building
 <br/>
@@ -356,7 +356,7 @@ Treat yourself to a piece of cake at the most beautiful cafe. Make sure to make 
 <b>Ave time spent:</b> 30 minutes<br/>
 
 <figure>
-	<img src="/blog/img/budapest/10.jpg" width="700" height="525">
+	<img src="/blog/img/budapest/10.jpg" width="700" height="933">
 	<figcaption>
 		<b>Inside the parliament</b>
 	</figcaption>
@@ -389,7 +389,9 @@ This square is a must see. You'll likely pass it on your way to the Ice Rink or 
 <b>Cost:</b> Free<br/>
 <b>Ave time spent:</b> 10-30 minutes<br/>
 
-One can only become a saint if you do something miraculous. King St Stephen was not a saint during his time. After his death, his burial was removed. During this removal they discovered that his right hand was perfectly preserved. The people of that time believed it had miraculous power. The king therefore became a saint. Scientists today can explain the phenomenon. The hand is still located inside the basilica. Its free to go inside. They also offer great classical shows inside the basilica.
+One can only become a saint if you do something miraculous. King St Stephen was not a saint during his time. After his death, his burial was removed. During the removal they discovered that his right hand was perfectly preserved. The people of that time believed it had miraculous power. The king therefore became a saint. Scientists today can explain the phenomenon. The hand is still located inside the basilica. 
+
+Its free to go inside. They also offer great classical shows inside the basilica.
 
 * # <a href="http://www.opera.hu/">Hungarian State Opera House</a>
 <br/>
@@ -416,7 +418,7 @@ There are tours to go inside the Opera house. I recommend to rather book a show.
 <b>Cost:</b> 1200 HUF one way<br/>
 <b>Ave time spent:</b> 30 minutes<br/>
 
-The funicular in my opinion is slightly touristy and not a must in my opinion. 
+The funicular is slightly touristy and not a must in my opinion. 
 
 * # Gellért Hill Cave
 <br/>
@@ -426,7 +428,7 @@ The funicular in my opinion is slightly touristy and not a must in my opinion.
 <b>Cost:</b> 500 HUF<br/>
 <b>Ave time spent:</b> 2 hours<br/>
 
-This is a fascinating church cave filled with history. I've never seen anything like it. Its named after a saint who was placed into a spiked barrel and rolled down the hill. Worth a visit if you have more than a weekend.
+This is a fascinating church cave filled with history. I've never seen anything like it. It's named after a saint who was placed into a spiked barrel and rolled down the hill. Worth a visit if you have more than a weekend.
 
 * # Wine tasting
 <br/>
@@ -436,14 +438,12 @@ This is a fascinating church cave filled with history. I've never seen anything 
 <b>Cost:</b> 3900 HUF / flight (1dl of each three wines)<br/>
 <b>Ave time spent:</b> 2 hours<br/>
 
-Hungary is famous for their sweet wine from Tokaj. They have plenty of other famous wine regions e.g Eger. 
+Hungary is famous for their sweet wine from Tokaj. They also have plenty of other famous wine regions e.g Eger. Try the bulls blood at <a href="http://tastingtablebudapest.com/">Tasting Table</a>.
 
 <blockquote>
 The name of the wine originates from an event that happened in Eger, the town, and region where the wine is produced, in the 16th century. Upon a Turkish siege of the city, the Hungarian troops (under command of the favorite hero of Eger today, Istvan Dobo), were fed local food and wine, including the red wine from nearby vineyards. Rumor spread that this dark red wine was mixed with bulls' blood to give the 2,000 soldiers strength. Indeed, this small band of defenders successfully fought back a much larger Turkish army, and Eger was temporarily saved from sacking.
 	—<a href="https://www.tripsavvy.com/bulls-blood-of-hungary-1501569">Bull's Blood of Hungary</a>
 </blockquote>
-
-Try the bulls blood at <a href="http://tastingtablebudapest.com/">Tasting Table</a>.
 
 * # <a href="http://budapestrivercruise.com/folk-dance-show-on-budapest-evening-cruise">Dinner boat cruise + Folk dance</a>
 <br/>
@@ -473,7 +473,7 @@ The folk dance is great, but not a must in my opinion.
 	</figcaption>
 </figure>
 
-Sziget is an obvious must when you're in Budapest in August. There is something for everyone. I recommend staying over for a night. 
+Sziget is an obvious must when you're in Budapest in August. There is something for everyone. I recommend staying over for minimum a night. 
 
 <figure class="col one right">
 	<img src="/blog/img/budapest/11.jpg" width="225" height="320">
