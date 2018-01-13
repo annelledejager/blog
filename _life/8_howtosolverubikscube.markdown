@@ -1,7 +1,6 @@
 ---
 layout: post
-title: solving a rubik's cube like a pro
-img: /blog/img/proteas.jpg
+title: solving a rubik's cube like a pro s
 date: 2018-01-04 18:32:00
 description: solving a rubik's cube like a pro
 comments: true
