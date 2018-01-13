@@ -10,4 +10,8 @@ description: a collection of my "pet" projects
 		<h2><a class="portfolio_event-title" href="https://github.com/annelledejager/reisagent">
 		reisagent - ionic mobile app</a></h2>
 	</li>
+	<li>
+		<h2><a class="portfolio_event-title" href="https://github.com/annelledejager/recorder">
+		recorder - speach to text converter</a></h2>
+	</li>
 </ul>
