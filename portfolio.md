@@ -11,7 +11,7 @@ description: a collection of my "pet" projects
 		reisagent - ionic mobile app</a></h2>
 	</li>
 	<li>
-		<h2><a class="portfolio_event-title" href="https://github.com/annelledejager/recorder">
-		recorder - speach to text converter</a></h2>
+		<h2><a class="portfolio_event-title" href="https://github.com/annelledejager/speech-to-text-converter">
+		speech to text converter</a></h2>
 	</li>
 </ul>
