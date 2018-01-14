@@ -38,7 +38,7 @@ If you're using HTTPS, your command will look like `https://github.com/YourGithu
 
 If you're using SSH, it will look like `git@github.com:YourGithubUsername/RepositoryName.git`.
 
-If the `push` command fails, it might be caused by a change in your remote repository after the `init` command eg. you added a README. Try the following command `git push —force origin master` as your last command. Be cautious. This is the only time I would ever recommend using the `--force` command. Find further details <a href="https://developer.atlassian.com/blog/2015/04/force-with-lease/">here</a>.
+If the `push` command fails, it might be caused by a change in your remote repository after the `init` command eg. you added a README. Try the following command `git push —-force origin master` as your last command. Be cautious. This is the only time I would ever recommend using the `--force` command. Find further details <a href="https://developer.atlassian.com/blog/2015/04/force-with-lease/">here</a>.
 
 <blockquote>
 Git's push --force is destructive because it unconditionally overwrites the remote repository with whatever you have locally
