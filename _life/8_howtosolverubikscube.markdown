@@ -146,9 +146,9 @@ If there is no correct corners initially, then do the algorithm once to obtain o
 ### Orient yellow corners
 <br/>
 
-The final step is to orient the corners. Hold the cube in your hand with an unsolved corner to the front. Do the algorithm twice or four time. 
+The final step is to orient the corners. Hold the cube in your hand with an unsolved corner to the front. Do the algorithm twice or four time until the corner is in the correct place. Then twist the top row when the next corner needs to be fixed. 
 
-It might seem as if you're messing up the whole cube, but keep on repeating the algorithm until the corners are in the correct place. Only twist the top row when the next corner needs to be fixed. 
+It might seem as if you're messing up the whole cube, but keep on repeating the algorithm until the corners are in the correct place. 
 
 <b>R' D' R D</b>
 
