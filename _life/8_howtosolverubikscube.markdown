@@ -130,7 +130,11 @@ The yellow edges need to be positioned in the right place according to the side 
 ### Yellow corners on their places
 <br/>
 
-Now you have to get the yellow corners on the right places. This step is crucial. Note that the corner block in the picture is correct. The colors should be yellow, blue and orange. 
+Now you have to get the yellow corners on the right places. This step is crucial. Find a piece that's already in the right place like shown in the picture. The colors should be yellow, blue and orange in this case, no matter the orientation.
+
+Angle the block with the correct block as indicated in the picture. Re-do the algorithm until all the other corners are orientated correctly. 
+
+If there is no correct corners initially, then do the algorithm once to obtain one. 
 
 <b>U R U' L' U R' U' L</b>
 
