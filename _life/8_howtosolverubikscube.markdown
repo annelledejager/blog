@@ -130,7 +130,7 @@ The yellow edges need to be positioned in the right place according to the side 
 ### Yellow corners on their places
 <br/>
 
-Now you have to get the yellow corners on the right places. This step is crucial. Note that the corner block in the picture is incorrect. The colors should be yellow, blue and orange. 
+Now you have to get the yellow corners on the right places. This step is crucial. Note that the corner block in the picture is correct. The colors should be yellow, blue and orange. 
 
 <b>U R U' L' U R' U' L</b>
 
