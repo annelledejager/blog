@@ -5,9 +5,9 @@ date:   2018-02-17 08:46:00
 description: code reviews do's and dont's for a healthy software team environment
 comments: true
 ---
-The purpose of code reviews are to catch mistakes made during the initial implementation phase and to improve the quality of the software. It also helps the younger developers to improve and gain confidence. 
+The purpose of code reviews are to catch mistakes made during the initial implementation phase and to improve the quality of the software. It also helps the younger developers in the team to improve and gain confidence. 
 
-There's always that one developer that you always ask for reviews- the "easy approver". They are easily pleased and your code is usually approved instantly. On the other hand there's always that developer that you dread asking for a review - the virtually "impossible approver". This developer will comment and fight you on everything. The implementation will usually take a third of the whole development time due to this long back and forth review.
+There's always that one developer that you always ask for reviews - the "easy approver". This type of reviewer is easily pleased and approves code instantly. On the other hand there's always that developer that you dread asking for a review - the virtually "impossible approver". This developer will comment and fight you on everything. The implementation will usually take a third of the whole development time due to this long back and forth review.
 
 In my experience neither of the two developers` code review approaches are constructive towards the developer under review or their code. 
 
@@ -48,6 +48,8 @@ Did you even test this code before you checked it in?
  * <b>collaborate, don’t back-seat drive</b>
  <br/>
  In my experience and in our team we find it constructive to sit with the reviewer while he/she reviews your code. You open a dialog by doing this. The issues are addressed, discussed and resolved faster. 
+
+ Comments can often be misinterpreted. Sitting together can also avoid that.
  
  * <b>know when to take a discussion offline</b>
  
