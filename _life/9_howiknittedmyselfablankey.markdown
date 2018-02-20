@@ -22,7 +22,7 @@ The Moss Stitch is fairly simple. It's one knit, one purl stitch.
 
 You will need the following to make a lap blanket (60 cast on stitches)
 * 2x10mm stitching needles
-* 1 needle
+* 1 needle (for casting off)
 * 14x60m 10mm thick wool
 
 Before this project I could only knit stitch. I used the following youtube sources to teach myself the cast on method as well as the moss stitch.
