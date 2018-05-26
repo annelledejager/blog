@@ -29,7 +29,7 @@ The world moves on with or without you.
 	<a href="mailto:annelle.dejager@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/annelledejager/" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.instagram.com/annelledj/"><i class="fa fa-instagram"></i></a>
-	<a href="https://www.linkedin.com/in/annelle-de-jager-8041539a/" target="_blank"><i class="fa fa-linkedin-square"></i></a>
+	<a href="www.linkedin.com/in/annelledj" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 </span>
 
 <div class="col three caption">
