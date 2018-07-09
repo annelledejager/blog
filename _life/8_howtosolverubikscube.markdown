@@ -1,6 +1,6 @@
 ---
 layout: post
-title: solving a rubik's cube like a pro s
+title: solving a rubik's cube like a pro
 date: 2018-01-04 18:32:00
 description: solving a rubik's cube like a pro
 comments: true
