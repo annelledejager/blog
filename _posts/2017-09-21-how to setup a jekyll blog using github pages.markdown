@@ -27,7 +27,7 @@ GitHub Pages is a static site hosting service.
 #### Running Jekyll locally
 1. Install Jekyll `$ gem install jekyll`
 2. Go to the Jekyll repository on your local machine `$ cd blog/`
-3. Run `$ Jekyll serve` (Jekyll provides a variety of <a href="http://jekyllrb.com/docs/usage/">options</a>)
+3. Run `$ jekyll serve` (Jekyll provides a variety of <a href="http://jekyllrb.com/docs/usage/">options</a>)
 3. `http://127.0.0.1:4000/` in browser 
 
 #### File structure
